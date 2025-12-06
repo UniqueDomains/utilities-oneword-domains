@@ -22,34 +22,34 @@ If you want to search & filters the complete database of [Utilities one word dom
 | Domain              | Status    | Attract. | Demand | Length | Registrar                                                                | Created          | Expires          |
 | ------------------- | --------- | -------- | ------ | ------ | ------------------------------------------------------------------------ | ---------------- | ---------------- |
 | service.academy     | resell    | 70       | 36%    | 7      | Spaceship, Inc.                                                          | 07/07/2022 13:15 | 07/07/2026 13:15 |
-| service.accountant  | available | 70       | 36%    | 7      |                                                                          |                  |                  |
+| service.accountant  | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
 | service.accountants | available | 70       | 36%    | 7      |                                                                          |                  |                  |
 | service.actor       | available | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.adult       | available | 70       | 36%    | 7      |                                                                          |                  |                  |
+| service.adult       | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
 | service.airforce    | resell    | 70       | 36%    | 7      | Cronon GmbH                                                              | 19/05/2024 23:31 | 19/05/2026 23:31 |
 | service.art         | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
 | service.asia        | resell    | 70       | 36%    | 7      | InterNetX GmbH                                                           | 27/06/2008 07:04 | 27/06/2026 07:04 |
-| service.associates  | available | 70       | 36%    | 7      |                                                                          |                  |                  |
+| service.associates  | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
 | service.at          | sold      | 70       | 36%    | 7      | sourceheads Information Technology GmbH ( https://nic.at/registrar/181 ) |                  |                  |
-| service.attorney    | available | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.auction     | available | 70       | 36%    | 7      |                                                                          |                  |                  |
+| service.attorney    | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
+| service.auction     | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
 | service.auto        | available | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.autos       | available | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.baby        | available | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.bar         | available | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.beauty      | available | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.berlin      | available | 70       | 36%    | 7      |                                                                          |                  |                  |
+| service.autos       | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
+| service.baby        | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
+| service.bar         | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
+| service.beauty      | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
+| service.berlin      | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
 | service.bid         | resell    | 70       | 36%    | 7      | Porkbun                                                                  | 28/10/2020 04:48 | 28/10/2025 04:48 |
 | service.bingo       | available | 70       | 36%    | 7      |                                                                          |                  |                  |
 | service.black       | resell    | 70       | 36%    | 7      | Xiamen ChinaSource Internet Service Co., Ltd                             | 05/08/2025 15:15 | 05/08/2026 15:15 |
 | service.blackfriday | available | 70       | 36%    | 7      |                                                                          |                  |                  |
 | service.blog        | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
 | service.blue        | resell    | 70       | 36%    | 7      | Spaceship, Inc.                                                          | 17/04/2021 14:30 | 17/04/2026 14:30 |
-| service.boats       | available | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.bond        | available | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.boo         | available | 70       | 36%    | 7      |                                                                          |                  |                  |
+| service.boats       | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
+| service.bond        | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
+| service.boo         | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
 | service.boutique    | expired   | 70       | 36%    | 7      | Sav.com, LLC - 21                                                        | 23/06/2024 17:00 | 23/06/2025 17:00 |
-| service.build       | available | 70       | 36%    | 7      |                                                                          |                  |                  |
+| service.build       | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
 | service.builders    | resell    | 70       | 36%    | 7      | GoDaddy.com, LLC                                                         | 03/01/2020 14:49 | 03/01/2026 14:49 |
 
 <p align="center">
