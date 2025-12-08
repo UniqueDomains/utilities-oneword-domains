@@ -21,36 +21,36 @@ If you want to search & filters the complete database of [Utilities one word dom
 
 | Domain              | Status    | Attract. | Demand | Length | Registrar                                                                | Created          | Expires          |
 | ------------------- | --------- | -------- | ------ | ------ | ------------------------------------------------------------------------ | ---------------- | ---------------- |
-| service.academy     | resell    | 70       | 36%    | 7      | Spaceship, Inc.                                                          | 07/07/2022 13:15 | 07/07/2026 13:15 |
-| service.accountant  | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.accountants | available | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.actor       | available | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.adult       | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.airforce    | resell    | 70       | 36%    | 7      | Cronon GmbH                                                              | 19/05/2024 23:31 | 19/05/2026 23:31 |
-| service.art         | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.asia        | resell    | 70       | 36%    | 7      | InterNetX GmbH                                                           | 27/06/2008 07:04 | 27/06/2026 07:04 |
-| service.associates  | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.at          | sold      | 70       | 36%    | 7      | sourceheads Information Technology GmbH ( https://nic.at/registrar/181 ) |                  |                  |
-| service.attorney    | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.auction     | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.auto        | available | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.autos       | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.baby        | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.bar         | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.beauty      | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.berlin      | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.bid         | resell    | 70       | 36%    | 7      | Porkbun                                                                  | 28/10/2020 04:48 | 28/10/2025 04:48 |
-| service.bingo       | available | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.black       | resell    | 70       | 36%    | 7      | Xiamen ChinaSource Internet Service Co., Ltd                             | 05/08/2025 15:15 | 05/08/2026 15:15 |
-| service.blackfriday | available | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.blog        | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.blue        | resell    | 70       | 36%    | 7      | Spaceship, Inc.                                                          | 17/04/2021 14:30 | 17/04/2026 14:30 |
-| service.boats       | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.bond        | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.boo         | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.boutique    | expired   | 70       | 36%    | 7      | Sav.com, LLC - 21                                                        | 23/06/2024 17:00 | 23/06/2025 17:00 |
-| service.build       | premium   | 70       | 36%    | 7      |                                                                          |                  |                  |
-| service.builders    | resell    | 70       | 36%    | 7      | GoDaddy.com, LLC                                                         | 03/01/2020 14:49 | 03/01/2026 14:49 |
+| service.academy     | resell    | 70       | 34%    | 7      | Spaceship, Inc.                                                          | 07/07/2022 13:15 | 07/07/2026 13:15 |
+| service.accountant  | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.accountants | available | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.actor       | available | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.adult       | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.airforce    | resell    | 70       | 34%    | 7      | Cronon GmbH                                                              | 19/05/2024 23:31 | 19/05/2026 23:31 |
+| service.art         | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.asia        | resell    | 70       | 34%    | 7      | InterNetX GmbH                                                           | 27/06/2008 07:04 | 27/06/2026 07:04 |
+| service.associates  | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.at          | sold      | 70       | 34%    | 7      | sourceheads Information Technology GmbH ( https://nic.at/registrar/181 ) |                  |                  |
+| service.attorney    | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.auction     | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.auto        | available | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.autos       | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.baby        | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.bar         | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.beauty      | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.berlin      | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.bid         | resell    | 70       | 34%    | 7      | Dynadot Inc                                                              | 28/10/2020 04:48 | 28/10/2026 04:48 |
+| service.bingo       | available | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.bio         | resell    | 70       | 34%    | 7      | Spaceship, Inc.                                                          | 11/08/2022 13:15 | 11/08/2026 13:15 |
+| service.black       | resell    | 70       | 34%    | 7      | Xiamen ChinaSource Internet Service Co., Ltd                             | 05/08/2025 15:15 | 05/08/2026 15:15 |
+| service.blackfriday | available | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.blog        | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.blue        | resell    | 70       | 34%    | 7      | Spaceship, Inc.                                                          | 17/04/2021 14:30 | 17/04/2026 14:30 |
+| service.boats       | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.bond        | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.boo         | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.boston      | expired   | 70       | 34%    | 7      | GoDaddy.com, LLC                                                         | 10/10/2017 16:00 | 10/10/2025 16:00 |
+| service.boutique    | sold      | 70       | 34%    | 7      | Spaceship, Inc.                                                          | 10/10/2025 08:39 | 10/10/2026 08:39 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Utilities-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Utilities one word dom
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
