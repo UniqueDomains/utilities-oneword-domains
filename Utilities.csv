@@ -1,111 +1,4 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
-d7309606-5d74-4ca7-98eb-ff88c63e0a47,service.party,premium,70,34,7,,,
-41a9ffc1-3350-4df9-89f6-8bd7d0022ea9,service.pet,premium,70,34,7,,,
-f0ad0d61-ab7e-49cf-8cd5-723ad81611c0,service.phd,premium,70,34,7,,,
-f2dfcb20-7366-44fe-a4b2-246829f2eefb,service.photo,premium,70,34,7,,,
-b9d50752-6994-4e4a-a81a-35f81b77ef66,service.photography,available,70,34,7,,,
-634c24c3-fc4f-483f-9aa3-08297f71c645,service.pics,available,70,34,7,,,
-96204220-b4e4-4f3c-8f54-92d2c3895beb,service.pictures,available,70,34,7,,,
-ef71ce46-0def-4cb8-b6b0-295aee4ad156,service.plumbing,premium,70,34,7,,,
-e354c1a3-69a3-418b-8600-ce99fa2e6103,service.porn,premium,70,34,7,,,
-0480c357-f8c2-4341-a648-a4e559c7f5d3,service.press,premium,70,34,7,,,
-451eb6d8-afa6-4523-9ef4-39a0db180044,service.productions,premium,70,34,7,,,
-c964c599-7578-4ffc-bf01-b805527b1e09,service.prof,premium,70,34,7,,,
-314e60a1-fdb4-4236-8389-566633b51f37,service.promo,premium,70,34,7,,,
-9f3f81ee-9517-4f14-9d4c-34a5ce75d8f8,service.properties,available,70,34,7,,,
-559778bd-5be1-403c-8010-2aceac8686ec,service.property,premium,70,34,7,,,
-f1ca4c2f-613b-4b23-aca3-1a5093858d42,service.protection,available,70,34,7,,,
-60df281c-037c-4c2c-9ffd-f3efe3850ddf,service.pub,resell,70,34,7,"DNSPod, Inc.",15/04/2019 10:49,15/04/2026 10:49
-804ad06e-5e4c-48ef-bcf8-857f274b59b5,service.pw,premium,70,34,7,,,
-f2bcab8c-9d28-4671-ac60-12f1b4513384,service.qpon,premium,70,34,7,,,
-3b71110a-55f3-4a95-b198-124080ad41ce,service.quest,premium,70,34,7,,,
-cf944c3b-17bd-432c-babf-c60040154206,service.racing,premium,70,34,7,,,
-203756da-f786-4a6d-9cf3-3de6a300f248,service.realty,available,70,34,7,,,
-a167d9ba-a4e1-40b7-a81a-268867c2d95b,service.recipes,available,70,34,7,,,
-362822f5-d695-4f84-a9ea-2ba86e18dc6d,service.red,resell,70,34,7,"Spaceship, Inc.",24/04/2019 11:04,24/04/2026 11:04
-40e75149-27c0-4119-b1b1-d7c08aaea94c,service.rehab,premium,70,34,7,,,
-a0267fb3-3a37-4cdf-8db4-2f95f4a6273c,service.reise,available,70,34,7,,,
-8e10767a-d08b-421c-9a18-ccbc4ec05730,service.rent,premium,70,34,7,,,
-d05fa476-7cc2-458e-8069-9e7e953b01d9,service.republican,available,70,34,7,,,
-c9b57df9-f514-422a-a1ff-4c0610e6a5a7,service.rest,premium,70,34,7,,,
-a67b18c7-d541-4e91-a69b-cd6f88407dfb,service.review,resell,70,34,7,"GoDaddy.com, LLC",01/11/2017 18:28,01/11/2026 18:28
-cad80b1f-271e-4ed7-8929-dc7099e758cf,service.reviews,premium,70,34,7,,,
-1d7b251e-ce05-4966-9348-3d93f2d1a3d7,service.rich,available,70,34,7,,,
-ebb75543-e531-4875-b138-e96dbdf2d426,service.rodeo,available,70,34,7,,,
-a0227a6c-5055-4691-a6b8-f45162d80a4c,service.rsvp,premium,70,34,7,,,
-966993af-323e-4786-a544-bdcb31131a91,service.run,resell,70,34,7,Xin Net Technology Corporation,07/03/2019 08:20,07/03/2026 08:20
-f0cc4f78-0b8e-4965-b29a-f14fe52afc6e,service.sale,premium,70,34,7,,,
-93fd2fe5-2e26-445d-90bf-fd517a1dc5ae,service.sarl,premium,70,34,7,,,
-36c0e0b4-dcbf-4f73-9f0b-517987e59473,service.sbs,premium,70,34,7,,,
-40fcffa9-4356-498e-8375-e1145cdabfc6,service.school,sold,70,34,7,"GoDaddy.com, LLC",30/09/2020 19:27,30/09/2026 19:27
-55cc1eef-732c-4de7-bb77-28e439e83999,service.science,premium,70,34,7,,,
-6482db59-2382-4e49-a0fc-d5a98ac96602,service.security,available,70,34,7,,,
-ff5f8c82-8540-4ad6-98fe-b90e5767c068,service.services,sold,70,34,7,1API GmbH,05/03/2020 02:44,05/03/2026 02:44
-1f94e71a-1781-4fc3-9bd0-7d48d7ad92e1,service.sexy,available,70,34,7,,,
-4418424d-82e5-4ee4-881e-3871485a0160,service.shiksha,premium,70,34,7,,,
-12249fdd-b608-41a2-b2a4-7bf97226fe81,service.shoes,available,70,34,7,,,
-5485b346-2db9-4c2b-af6b-8a3d92162977,service.shopping,sold,70,34,7,united-domains GmbH,30/09/2016 05:57,30/09/2026 05:57
-07f9fccc-d0a7-4a77-8046-f011b8ec1e7e,service.show,resell,70,34,7,"DNSPod, Inc.",03/04/2018 05:13,03/04/2026 05:13
-614af471-5f46-42e6-882b-f8aee770188d,service.site,premium,70,34,7,,,
-4d918c05-064c-4680-b48d-7f7c248eab71,service.skin,premium,70,34,7,,,
-13a9f7e5-0b6f-420d-b5d1-c6f9c6c99cc2,service.soccer,available,70,34,7,,,
-e79106d5-aacf-4b93-bd95-66e9c78f6963,service.social,premium,70,34,7,,,
-bfa77dbb-abe4-424e-a25e-aa5a697d9bdf,service.software,premium,70,34,7,,,
-abb9deff-66f9-433c-bee7-57da17120e8c,service.solutions,resell,70,34,7,"Sav.com, LLC",24/06/2015 16:01,24/06/2026 16:01
-f05e3d11-e1ab-4368-81fd-a505da0f4795,service.soy,premium,70,34,7,,,
-1877ac2a-f13a-4623-98b1-240c554298e7,service.space,premium,70,34,7,,,
-16ed892c-3888-4281-aa9e-32357bd59a3c,service.spot,premium,70,34,7,,,
-aa8b17ea-e5ca-4419-ae09-5f48002c1aec,service.srl,available,70,34,7,,,
-99c12a6e-dd97-4c0a-a69d-87eab409b4b2,service.storage,available,70,34,7,,,
-f810f97c-ed33-427b-9233-56bd34ced41f,service.store,premium,70,34,7,,,
-5136fc91-9fa8-4c94-9a74-889d7b5e8612,service.stream,premium,70,34,7,,,
-1490ad62-a8a8-4910-b2e0-285f62ff9cca,service.study,premium,70,34,7,,,
-306af536-5b3d-419f-b4f4-5e72c1573929,service.style,available,70,34,7,,,
-904478b1-37b3-4bdf-adff-bcf8fe2108b0,service.sucks,premium,70,34,7,,,
-c47ac544-ffd6-4a52-8b7c-3ddaf82ab3a4,service.supplies,resell,70,34,7,"Sav.com, LLC",25/11/2019 15:10,25/11/2026 15:10
-2309051b-712b-4f5c-9b53-81b4bf84ef01,service.supply,resell,70,34,7,"Sav.com, LLC",26/11/2016 23:18,26/11/2026 23:18
-e42fdfe0-e331-422c-a4f0-59acad00157b,service.surf,available,70,34,7,,,
-70d57bb4-1235-4a9b-87a1-e80f0839018b,service.surgery,available,70,34,7,,,
-f777cbfa-dace-4c3a-a357-55b4b15f01e4,service.sydney,premium,70,34,7,,,
-9b494e1f-e7a0-4a87-85d3-07e00e9fd376,service.systems,resell,70,34,7,"Sav.com, LLC",25/08/2016 05:59,25/08/2026 05:59
-d348f27b-6645-4a8e-a8f2-119c0c01214b,service.talk,premium,70,34,7,,,
-089214f9-cd4e-4ad6-9911-2da90c2ae28c,service.tattoo,available,70,34,7,,,
-d3555039-5bfe-410e-90b2-92383d43061d,service.tax,resell,70,34,7,"GoDaddy.com, LLC",01/09/2015 05:59,01/09/2026 05:59
-f853c22f-0ac0-483e-80ab-27e868f4569f,service.tech,premium,70,34,7,,,
-56a7e69d-17f4-4db2-b403-1658fcb0fdd0,service.tennis,premium,70,34,7,,,
-ebd163a5-c49e-4c81-90ca-8cb4e09305b5,service.theater,available,70,34,7,,,
-a1cae290-bced-4bcd-95e3-4e1a71a13c35,service.theatre,available,70,34,7,,,
-b3bd521a-e962-4232-b014-84be754b8c88,service.tickets,available,70,34,7,,,
-5b034659-e3d9-48ad-9c83-47aa9ada1bbc,service.tienda,available,70,34,7,,,
-6b6d052b-fa07-4d99-b5de-5701812c16b9,service.tours,premium,70,34,7,,,
-bb78872b-790c-46b4-8611-d065be50af82,service.town,premium,70,34,7,,,
-f2dcb2da-8d82-41bb-8f45-dd35ea201ecb,service.toys,sold,70,34,7,"Spaceship, Inc.",13/10/2025 09:15,13/10/2026 09:15
-b9462e0f-e845-40b9-bc6f-da1f4703fd66,service.trade,premium,70,34,7,,,
-3a263155-1d45-4495-8eb8-f4bcae8e6cc5,service.training,resell,70,34,7,"Spaceship, Inc.",04/06/2022 13:15,04/06/2026 13:15
-09aba47c-9856-4fd6-8150-4c9287b06f95,service.tube,resell,70,34,7,"GoDaddy.com, LLC",10/04/2019 22:15,10/04/2026 22:15
-62bdc51a-4b29-4cad-8066-f69851309558,service.uno,premium,70,34,7,,,
-dd6edbce-594a-4eac-b2ad-51150b64f92d,service.vacations,available,70,34,7,,,
-2d98932f-91bd-4f47-89e8-c2f69083bf03,service.vana,available,70,34,7,,,
-d165a4b5-fc47-4511-a3ce-5e4a80ccac7a,service.vet,premium,70,34,7,,,
-3169aa60-d781-4110-b622-110a1d246485,service.viajes,available,70,34,7,,,
-dcfdb5f7-2ae0-4fca-96b0-510af4153937,service.villas,premium,70,34,7,,,
-01aeedff-6ee0-4306-879c-4b88758eec22,service.vin,premium,70,34,7,,,
-f5ab2409-45bb-4fc4-ba93-beafae3813bf,service.vision,sold,70,34,7,InterNetX GmbH,11/09/2014 14:51,11/09/2026 14:51
-7f6b9d92-c818-4f34-894c-97eeb367bf9a,service.vodka,available,70,34,7,,,
-d6a2cff8-89fe-4a72-911a-e2916bd46db8,service.vote,available,70,34,7,,,
-24865410-3c9f-4926-b161-32f7353a4365,service.voto,available,70,34,7,,,
-0fcfd364-8993-4486-9393-64509aa26983,service.voyage,available,70,34,7,,,
-5706f56a-2471-4579-89e5-b19c0ec71701,service.webcam,premium,70,34,7,,,
-562460d5-648b-4086-af7b-529c8a3edaf3,service.website,premium,70,34,7,,,
-605c2263-4305-47c0-9591-641c3056a63a,service.wedding,premium,70,34,7,,,
-7833488a-cf41-45cd-b894-a38485e11056,service.wiki,resell,70,34,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),12/08/2022 00:00,12/08/2026 00:00
-6692012e-bc6e-4bcc-ad89-7dbebbd8437b,service.win,premium,70,34,7,,,
-688058a5-72d6-4f88-9cf3-51b3a86d5b7d,service.world,resell,70,34,7,"Chengdu West Dimension Digital Technology Co., Ltd.",03/04/2017 16:12,03/04/2026 16:12
-1d554f41-695b-4530-83c9-f697181880a2,service.xyz,resell,70,34,7,"Sav.com, LLC",05/09/2021 18:02,05/09/2026 23:59
-5467a60b-6ae1-48e5-bbd9-d058dcd181a5,service.yachts,premium,70,34,7,,,
-3caf5b79-141f-40e9-8dd1-d141db87ff3a,service.yoga,available,70,34,7,,,
-7cd2027b-0995-4ec5-a43c-2067872ebbf6,service.you,premium,70,34,7,,,
-f9af8b1e-73c8-4d42-a9b9-f22dbb368b6a,service.zip,premium,70,34,7,,,
 4394f1ab-3f54-43bd-8cec-7b1c1dd3f19d,service.academy,resell,70,34,7,"Spaceship, Inc.",07/07/2022 13:15,07/07/2026 13:15
 c032f6e1-7002-4cbd-af74-0537b7f2f299,service.accountant,premium,70,34,7,,,
 f12f58b6-26e7-4f04-9d62-da26db34095f,service.accountants,available,70,34,7,,,
@@ -323,6 +216,113 @@ b4eedfa0-a8b5-487d-9587-52346c2917d3,service.observer,premium,70,34,7,,,
 e0f4a020-d271-4dbc-b15e-fb54a8958a66,service.online,premium,70,34,7,,,
 d758a545-b510-437e-9fbb-eb8f49be36d6,service.osaka,premium,70,34,7,,,
 b8736c37-f879-438c-9156-941ec38cf029,service.page,premium,70,34,7,,,
+d7309606-5d74-4ca7-98eb-ff88c63e0a47,service.party,premium,70,34,7,,,
+41a9ffc1-3350-4df9-89f6-8bd7d0022ea9,service.pet,premium,70,34,7,,,
+f0ad0d61-ab7e-49cf-8cd5-723ad81611c0,service.phd,premium,70,34,7,,,
+f2dfcb20-7366-44fe-a4b2-246829f2eefb,service.photo,premium,70,34,7,,,
+b9d50752-6994-4e4a-a81a-35f81b77ef66,service.photography,available,70,34,7,,,
+634c24c3-fc4f-483f-9aa3-08297f71c645,service.pics,available,70,34,7,,,
+96204220-b4e4-4f3c-8f54-92d2c3895beb,service.pictures,available,70,34,7,,,
+ef71ce46-0def-4cb8-b6b0-295aee4ad156,service.plumbing,premium,70,34,7,,,
+e354c1a3-69a3-418b-8600-ce99fa2e6103,service.porn,premium,70,34,7,,,
+0480c357-f8c2-4341-a648-a4e559c7f5d3,service.press,premium,70,34,7,,,
+451eb6d8-afa6-4523-9ef4-39a0db180044,service.productions,premium,70,34,7,,,
+c964c599-7578-4ffc-bf01-b805527b1e09,service.prof,premium,70,34,7,,,
+314e60a1-fdb4-4236-8389-566633b51f37,service.promo,premium,70,34,7,,,
+9f3f81ee-9517-4f14-9d4c-34a5ce75d8f8,service.properties,available,70,34,7,,,
+559778bd-5be1-403c-8010-2aceac8686ec,service.property,premium,70,34,7,,,
+f1ca4c2f-613b-4b23-aca3-1a5093858d42,service.protection,available,70,34,7,,,
+60df281c-037c-4c2c-9ffd-f3efe3850ddf,service.pub,resell,70,34,7,"DNSPod, Inc.",15/04/2019 10:49,15/04/2026 10:49
+804ad06e-5e4c-48ef-bcf8-857f274b59b5,service.pw,premium,70,34,7,,,
+f2bcab8c-9d28-4671-ac60-12f1b4513384,service.qpon,premium,70,34,7,,,
+3b71110a-55f3-4a95-b198-124080ad41ce,service.quest,premium,70,34,7,,,
+cf944c3b-17bd-432c-babf-c60040154206,service.racing,premium,70,34,7,,,
+203756da-f786-4a6d-9cf3-3de6a300f248,service.realty,available,70,34,7,,,
+a167d9ba-a4e1-40b7-a81a-268867c2d95b,service.recipes,available,70,34,7,,,
+362822f5-d695-4f84-a9ea-2ba86e18dc6d,service.red,resell,70,34,7,"Spaceship, Inc.",24/04/2019 11:04,24/04/2026 11:04
+40e75149-27c0-4119-b1b1-d7c08aaea94c,service.rehab,premium,70,34,7,,,
+a0267fb3-3a37-4cdf-8db4-2f95f4a6273c,service.reise,available,70,34,7,,,
+8e10767a-d08b-421c-9a18-ccbc4ec05730,service.rent,premium,70,34,7,,,
+d05fa476-7cc2-458e-8069-9e7e953b01d9,service.republican,available,70,34,7,,,
+c9b57df9-f514-422a-a1ff-4c0610e6a5a7,service.rest,premium,70,34,7,,,
+a67b18c7-d541-4e91-a69b-cd6f88407dfb,service.review,resell,70,34,7,"GoDaddy.com, LLC",01/11/2017 18:28,01/11/2026 18:28
+cad80b1f-271e-4ed7-8929-dc7099e758cf,service.reviews,premium,70,34,7,,,
+1d7b251e-ce05-4966-9348-3d93f2d1a3d7,service.rich,available,70,34,7,,,
+ebb75543-e531-4875-b138-e96dbdf2d426,service.rodeo,available,70,34,7,,,
+a0227a6c-5055-4691-a6b8-f45162d80a4c,service.rsvp,premium,70,34,7,,,
+966993af-323e-4786-a544-bdcb31131a91,service.run,resell,70,34,7,Xin Net Technology Corporation,07/03/2019 08:20,07/03/2026 08:20
+f0cc4f78-0b8e-4965-b29a-f14fe52afc6e,service.sale,premium,70,34,7,,,
+93fd2fe5-2e26-445d-90bf-fd517a1dc5ae,service.sarl,premium,70,34,7,,,
+36c0e0b4-dcbf-4f73-9f0b-517987e59473,service.sbs,premium,70,34,7,,,
+40fcffa9-4356-498e-8375-e1145cdabfc6,service.school,sold,70,34,7,"GoDaddy.com, LLC",30/09/2020 19:27,30/09/2026 19:27
+55cc1eef-732c-4de7-bb77-28e439e83999,service.science,premium,70,34,7,,,
+6482db59-2382-4e49-a0fc-d5a98ac96602,service.security,available,70,34,7,,,
+ff5f8c82-8540-4ad6-98fe-b90e5767c068,service.services,sold,70,34,7,1API GmbH,05/03/2020 02:44,05/03/2026 02:44
+1f94e71a-1781-4fc3-9bd0-7d48d7ad92e1,service.sexy,available,70,34,7,,,
+4418424d-82e5-4ee4-881e-3871485a0160,service.shiksha,premium,70,34,7,,,
+12249fdd-b608-41a2-b2a4-7bf97226fe81,service.shoes,available,70,34,7,,,
+5485b346-2db9-4c2b-af6b-8a3d92162977,service.shopping,sold,70,34,7,united-domains GmbH,30/09/2016 05:57,30/09/2026 05:57
+07f9fccc-d0a7-4a77-8046-f011b8ec1e7e,service.show,resell,70,34,7,"DNSPod, Inc.",03/04/2018 05:13,03/04/2026 05:13
+614af471-5f46-42e6-882b-f8aee770188d,service.site,premium,70,34,7,,,
+4d918c05-064c-4680-b48d-7f7c248eab71,service.skin,premium,70,34,7,,,
+13a9f7e5-0b6f-420d-b5d1-c6f9c6c99cc2,service.soccer,available,70,34,7,,,
+e79106d5-aacf-4b93-bd95-66e9c78f6963,service.social,premium,70,34,7,,,
+bfa77dbb-abe4-424e-a25e-aa5a697d9bdf,service.software,premium,70,34,7,,,
+abb9deff-66f9-433c-bee7-57da17120e8c,service.solutions,resell,70,34,7,"Sav.com, LLC",24/06/2015 16:01,24/06/2026 16:01
+f05e3d11-e1ab-4368-81fd-a505da0f4795,service.soy,premium,70,34,7,,,
+1877ac2a-f13a-4623-98b1-240c554298e7,service.space,premium,70,34,7,,,
+16ed892c-3888-4281-aa9e-32357bd59a3c,service.spot,premium,70,34,7,,,
+aa8b17ea-e5ca-4419-ae09-5f48002c1aec,service.srl,available,70,34,7,,,
+99c12a6e-dd97-4c0a-a69d-87eab409b4b2,service.storage,available,70,34,7,,,
+f810f97c-ed33-427b-9233-56bd34ced41f,service.store,premium,70,34,7,,,
+5136fc91-9fa8-4c94-9a74-889d7b5e8612,service.stream,premium,70,34,7,,,
+1490ad62-a8a8-4910-b2e0-285f62ff9cca,service.study,premium,70,34,7,,,
+306af536-5b3d-419f-b4f4-5e72c1573929,service.style,available,70,34,7,,,
+904478b1-37b3-4bdf-adff-bcf8fe2108b0,service.sucks,premium,70,34,7,,,
+c47ac544-ffd6-4a52-8b7c-3ddaf82ab3a4,service.supplies,resell,70,34,7,"Sav.com, LLC",25/11/2019 15:10,25/11/2026 15:10
+2309051b-712b-4f5c-9b53-81b4bf84ef01,service.supply,resell,70,34,7,"Sav.com, LLC",26/11/2016 23:18,26/11/2026 23:18
+e42fdfe0-e331-422c-a4f0-59acad00157b,service.surf,available,70,34,7,,,
+70d57bb4-1235-4a9b-87a1-e80f0839018b,service.surgery,available,70,34,7,,,
+f777cbfa-dace-4c3a-a357-55b4b15f01e4,service.sydney,premium,70,34,7,,,
+9b494e1f-e7a0-4a87-85d3-07e00e9fd376,service.systems,resell,70,34,7,"Sav.com, LLC",25/08/2016 05:59,25/08/2026 05:59
+d348f27b-6645-4a8e-a8f2-119c0c01214b,service.talk,premium,70,34,7,,,
+089214f9-cd4e-4ad6-9911-2da90c2ae28c,service.tattoo,available,70,34,7,,,
+d3555039-5bfe-410e-90b2-92383d43061d,service.tax,resell,70,34,7,"GoDaddy.com, LLC",01/09/2015 05:59,01/09/2026 05:59
+f853c22f-0ac0-483e-80ab-27e868f4569f,service.tech,premium,70,34,7,,,
+56a7e69d-17f4-4db2-b403-1658fcb0fdd0,service.tennis,premium,70,34,7,,,
+ebd163a5-c49e-4c81-90ca-8cb4e09305b5,service.theater,available,70,34,7,,,
+a1cae290-bced-4bcd-95e3-4e1a71a13c35,service.theatre,available,70,34,7,,,
+b3bd521a-e962-4232-b014-84be754b8c88,service.tickets,available,70,34,7,,,
+5b034659-e3d9-48ad-9c83-47aa9ada1bbc,service.tienda,available,70,34,7,,,
+6b6d052b-fa07-4d99-b5de-5701812c16b9,service.tours,premium,70,34,7,,,
+bb78872b-790c-46b4-8611-d065be50af82,service.town,premium,70,34,7,,,
+f2dcb2da-8d82-41bb-8f45-dd35ea201ecb,service.toys,sold,70,34,7,"Spaceship, Inc.",13/10/2025 09:15,13/10/2026 09:15
+b9462e0f-e845-40b9-bc6f-da1f4703fd66,service.trade,premium,70,34,7,,,
+3a263155-1d45-4495-8eb8-f4bcae8e6cc5,service.training,resell,70,34,7,"Spaceship, Inc.",04/06/2022 13:15,04/06/2026 13:15
+09aba47c-9856-4fd6-8150-4c9287b06f95,service.tube,resell,70,34,7,"GoDaddy.com, LLC",10/04/2019 22:15,10/04/2026 22:15
+62bdc51a-4b29-4cad-8066-f69851309558,service.uno,premium,70,34,7,,,
+dd6edbce-594a-4eac-b2ad-51150b64f92d,service.vacations,available,70,34,7,,,
+2d98932f-91bd-4f47-89e8-c2f69083bf03,service.vana,available,70,34,7,,,
+d165a4b5-fc47-4511-a3ce-5e4a80ccac7a,service.vet,premium,70,34,7,,,
+3169aa60-d781-4110-b622-110a1d246485,service.viajes,available,70,34,7,,,
+dcfdb5f7-2ae0-4fca-96b0-510af4153937,service.villas,premium,70,34,7,,,
+01aeedff-6ee0-4306-879c-4b88758eec22,service.vin,premium,70,34,7,,,
+f5ab2409-45bb-4fc4-ba93-beafae3813bf,service.vision,sold,70,34,7,InterNetX GmbH,11/09/2014 14:51,11/09/2026 14:51
+7f6b9d92-c818-4f34-894c-97eeb367bf9a,service.vodka,available,70,34,7,,,
+d6a2cff8-89fe-4a72-911a-e2916bd46db8,service.vote,available,70,34,7,,,
+24865410-3c9f-4926-b161-32f7353a4365,service.voto,available,70,34,7,,,
+0fcfd364-8993-4486-9393-64509aa26983,service.voyage,available,70,34,7,,,
+5706f56a-2471-4579-89e5-b19c0ec71701,service.webcam,premium,70,34,7,,,
+562460d5-648b-4086-af7b-529c8a3edaf3,service.website,premium,70,34,7,,,
+605c2263-4305-47c0-9591-641c3056a63a,service.wedding,premium,70,34,7,,,
+7833488a-cf41-45cd-b894-a38485e11056,service.wiki,resell,70,34,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),12/08/2022 00:00,12/08/2026 00:00
+6692012e-bc6e-4bcc-ad89-7dbebbd8437b,service.win,premium,70,34,7,,,
+688058a5-72d6-4f88-9cf3-51b3a86d5b7d,service.world,resell,70,34,7,"Chengdu West Dimension Digital Technology Co., Ltd.",03/04/2017 16:12,03/04/2026 16:12
+1d554f41-695b-4530-83c9-f697181880a2,service.xyz,resell,70,34,7,"Sav.com, LLC",05/09/2021 18:02,05/09/2026 23:59
+5467a60b-6ae1-48e5-bbd9-d058dcd181a5,service.yachts,premium,70,34,7,,,
+3caf5b79-141f-40e9-8dd1-d141db87ff3a,service.yoga,available,70,34,7,,,
+7cd2027b-0995-4ec5-a43c-2067872ebbf6,service.you,premium,70,34,7,,,
+f9af8b1e-73c8-4d42-a9b9-f22dbb368b6a,service.zip,premium,70,34,7,,,
 b0cc7e1f-11c3-4f97-897e-4c4b06d8f2e6,electricity.at,sold,80,80,11,DomainQuadrat Marketing GmbH ( https://nic.at/registrar/581 ),,
 969d017f-911f-488f-bc52-d88418fbed3c,electricity.cloud,premium,80,80,11,,,
 44f4698d-d4b2-401b-a4e3-ae4f39df8c3f,electricity.dev,premium,80,80,11,,,
@@ -635,6 +635,175 @@ bd89dc12-0c75-4470-91f4-ee5b2f171f39,supply.so,expiring,100,88,6,NameCheap,06/08
 9a33153b-16e9-4fc3-83bf-6dcd97b6e24e,supply.space,premium,100,88,6,,,
 3239e82b-5044-4cb1-92ca-97d931f43fc1,supply.store,premium,100,88,6,,,
 1adc7c77-32cc-4ff5-9be8-d9f7a708dcb7,supply.tech,premium,100,88,6,,,
+364968d4-7ce4-417b-9800-f7e69e1e9195,gas.ac,sold,72,25,3,"NameCheap, Inc.",30/10/2025 16:16,30/10/2026 16:16
+35f8e313-de61-41cd-a75b-cafac70eac25,gas.academy,resell,72,25,3,"GoDaddy.com, LLC",20/09/2017 03:41,20/09/2026 03:41
+75ccbec1-479c-4533-81ea-7f5e928e176d,gas.accountant,premium,72,25,3,,,
+6ed4e9c2-7de0-4903-9064-a7cda6099d9e,gas.accountants,available,72,25,3,,,
+6de60c2f-c9c8-4ebc-802f-4ec2eaab9d16,gas.actor,available,72,25,3,,,
+17a8c2a3-43a2-4cbd-97be-d9e08c823bfe,gas.adult,available,72,25,3,,,
+e102c82c-f0bd-4cc7-9f76-9882493ef517,gas.agency,sold,72,25,3,"Key-Systems, LLC",09/01/2025 07:30,09/01/2027 07:30
+a85d51a7-e748-4c60-b1ec-c3bf3b98437c,gas.airforce,available,72,25,3,,,
+52c9d09b-a994-46e4-b424-6eead415c705,gas.apartments,available,72,25,3,,,
+30e51c5a-9bfe-43d3-bee8-10d277d07589,gas.archi,available,72,25,3,,,
+31175002-af4a-405d-8991-46f5df3d02dc,gas.art,premium,72,25,3,,,
+f3d056bd-5aa7-4379-a2c7-442009bfe0b5,gas.asia,expiring,72,25,3,"Spaceship, Inc.",16/12/2024 16:30,16/12/2025 16:30
+7b85b136-3829-468d-b800-5ad78e856a97,gas.associates,premium,72,25,3,,,
+f69e1d6a-7f64-4cb9-ae0f-c9e402635bd1,gas.at,sold,72,25,3,registrant:     EA4344331-NICAT,,
+78431167-cefe-4198-8c27-3b2f4c0db6df,gas.attorney,premium,72,25,3,,,
+849a6780-95bf-4669-8c5d-7f105d8d9173,gas.auction,premium,72,25,3,,,
+c061c508-0508-421d-aeb5-e5b10c8e78e1,gas.audio,available,72,25,3,,,
+72d5f122-3972-4d2f-a8b4-a5b1ffac4863,gas.auto,available,72,25,3,,,
+0ce57de9-6a8c-4ec5-995d-ae4aa8712d65,gas.baby,sold,72,25,3,Gname.com Pte. Ltd.,11/10/2025 17:13,11/10/2026 23:59
+0c831bbc-9e5b-4fc5-8176-dd3622ef8fcd,gas.band,sold,72,25,3,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,28/02/2025 15:15,28/02/2026 15:15
+580ec652-a107-4d1f-9338-774b1aee0ba6,gas.bar,premium,72,25,3,,,
+161f89b4-2633-43c0-94d6-dc71f4a7b507,gas.bargains,available,72,25,3,,,
+4d1215f6-1f0b-4eae-9bc4-b403ac47d4f6,gas.bayern,premium,72,25,3,,,
+39bc3559-5bc9-4968-a65b-1c4dca464ebf,gas.beauty,resell,72,25,3,"Spaceship, Inc.",19/06/2025 11:45,19/06/2026 23:59
+257bc865-d683-4049-8927-c8f14cc13e44,gas.beer,premium,72,25,3,,,
+4ba27fcc-e568-4d8a-9606-f16195ea7abe,gas.best,premium,72,25,3,,,
+3a20765f-369b-45c4-9235-f14f3b83bbae,gas.bet,resell,72,25,3,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,17/04/2025 15:15,17/04/2026 15:15
+0988aec4-4b02-4589-be99-180819dd4ae7,gas.bid,premium,72,25,3,,,
+f224dbcd-8f3d-441d-901a-0948591890ba,gas.bike,sold,72,25,3,"Sav.com, LLC - 37",20/04/2024 15:15,20/04/2026 15:15
+cbbb9f36-a03a-4436-89bd-1f285933dd62,gas.bingo,available,72,25,3,,,
+8793bd0e-cede-4d9f-9176-0dd37d46f43c,gas.bio,premium,72,25,3,,,
+9f81d97d-f509-4a67-aee8-452441202033,gas.biz,sold,72,25,3,Unstoppable Domains Inc.,27/03/2002 04:59,26/03/2028 23:59
+d2adf06f-663f-40ed-88dc-67040c61864f,gas.black,available,72,25,3,,,
+35621b7f-e8e7-4e85-813c-15b2145997f4,gas.blackfriday,premium,72,25,3,,,
+9e07f39c-ed2a-44b0-b757-8d5e99e48c8c,gas.blog,premium,72,25,3,,,
+b446f6de-d3c1-4b99-9ec0-d99d39c94c46,gas.boats,resell,72,25,3,Dynadot LLC,06/09/2025 17:00,06/09/2026 23:59
+93725a09-1276-4915-acf6-6604c10c7704,gas.boo,premium,72,25,3,,,
+b0cb619e-a571-4970-ba9a-1227175b66f0,gas.boston,premium,72,25,3,,,
+3fb692a8-7720-4d43-9e98-efb79417765a,gas.bot,premium,72,25,3,,,
+828548c2-efa2-4ea9-9a8e-2b7cc81006a5,gas.boutique,resell,72,25,3,Dynadot Inc,29/06/2025 17:00,29/06/2026 17:00
+328e9ff3-e722-4883-b2d3-400860f91e4a,gas.build,premium,72,25,3,,,
+5ba89fab-93b3-41ac-a9f3-a1edd61d1c2c,gas.builders,premium,72,25,3,,,
+f741139b-7664-44a9-a088-0a609b65b8e1,gas.business,premium,72,25,3,,,
+c12d01da-d255-4fc5-a32c-956f0e49ce24,gas.buzz,resell,72,25,3,"eNom, LLC",18/06/2015 21:39,17/06/2026 23:59
+0748fd1b-b215-4dc8-96c4-0e43b1aaad46,gas.ca,resell,72,25,3,Grape Inc.,13/04/2004 15:59,13/04/2027 04:00
+ca4b3418-db98-4c18-8796-b88e51d9dfef,gas.cab,premium,72,25,3,,,
+caaa530c-e194-4a7f-a91e-cb67e411d8cd,gas.cam,premium,72,25,3,,,
+83933460-e2f1-4296-ae0c-498105c946a0,gas.camera,available,72,25,3,,,
+36fff769-3c00-450e-b4d1-e440bc69d9ff,gas.camp,available,72,25,3,,,
+3eb95b43-d749-4e39-8be6-b1aca8b2e07c,gas.capital,sold,72,25,3,"NameCheap, Inc.",14/09/2025 07:09,14/09/2026 07:09
+4fcbeed8-7fb1-4b3c-901b-3c14ae1f271d,gas.car,available,72,25,3,,,
+3b20de34-4f70-4707-afa3-fbb0117d190d,gas.careers,available,72,25,3,,,
+c96ef508-cdb8-461a-b7a7-b03edba13c61,gas.cars,available,72,25,3,,,
+3eff5b9f-da92-4ea0-bed2-a8e314ffa8e6,gas.casa,premium,72,25,3,,,
+54cca72e-490a-4103-91d5-654982e73a39,gas.casino,available,72,25,3,,,
+b4304b47-4154-4b9b-84ae-0c04943573fc,gas.catering,available,72,25,3,,,
+466e396d-359f-4894-8866-b27bcc90e775,gas.cc,resell,72,25,3,"22net, Inc.",17/08/2006 08:00,17/08/2026 08:00
+6b1bf367-e9a1-4a5b-8aba-568e36245c45,gas.center,premium,72,25,3,,,
+746d720b-1735-4176-8840-c2ad055df4e8,gas.ceo,premium,72,25,3,,,
+d1670332-6b00-4856-bb93-2624a42bf2b2,gas.cfd,premium,72,25,3,,,
+aee7ca3c-ddfe-41b7-9816-d0551dbeb750,gas.charity,premium,72,25,3,,,
+f675ee13-f3b7-463e-8d1b-3ec2a605d2dd,gas.cheap,premium,72,25,3,,,
+f134b421-e68c-41a0-a86b-cb6305c12760,gas.christmas,available,72,25,3,,,
+76555c0c-5f56-4267-8058-c6b006085cf5,gas.church,available,72,25,3,,,
+477ab258-e05a-4abf-80db-9c44ab51bfb3,gas.cleaning,premium,72,25,3,,,
+3549381c-72d4-4d73-9825-238a19ddad83,gas.click,sold,72,25,3,"Dynadot, LLC",25/11/2014 16:00,25/11/2026 16:00
+02b9b990-39ec-4881-9db7-2ac34c6d6f9d,gas.clinic,premium,72,25,3,,,
+314545dc-7661-4b53-8590-715dd97c8397,gas.clothing,premium,72,25,3,,,
+c549460c-3bc9-4e6d-96a8-450849e1c26c,gas.cloud,premium,72,25,3,,,
+94c97187-916d-4280-9417-6f23e35ec005,gas.club,resell,72,25,3,"NameCheap, Inc.",19/06/2020 17:22,19/06/2026 17:22
+32a1b119-af3d-4fd3-b7d5-9fd242cd2bc6,gas.coach,available,72,25,3,,,
+374133d6-19b4-479d-a875-5f5c7cb94c4a,gas.codes,sold,72,25,3,"GoDaddy.com, LLC",13/11/2025 11:28,13/11/2026 11:28
+e328c152-8b43-459c-bf85-92d85f1be6c5,gas.college,premium,72,25,3,,,
+39f5cd59-48a6-4e24-846f-7a0c1a7f5f0d,gas.community,available,72,25,3,,,
+1a9f71a9-4365-4691-9c36-149ac22f0cf3,gas.company,resell,72,25,3,1API GmbH,21/06/2015 16:00,21/06/2026 16:00
+5e0e4dea-e432-424d-97c1-2696445de939,gas.computer,premium,72,25,3,,,
+3088c50a-b013-4985-9878-8ea0160e884b,gas.condos,premium,72,25,3,,,
+e6b73caa-2f01-4d85-98c4-38003fe9a0f3,gas.construction,premium,72,25,3,,,
+da890285-fe3f-4b55-95f2-398a7b91dff8,gas.contact,expiring,72,25,3,"GoDaddy.com, LLC",09/12/2020 16:00,09/12/2025 16:00
+29020111-f145-40e0-aeb9-48bbbcb20512,gas.contractors,premium,72,25,3,,,
+9ae6947b-70e5-437f-9746-234691fbbecd,gas.cooking,premium,72,25,3,,,
+0e838585-043d-4d82-93c4-e351066bd226,gas.coupons,premium,72,25,3,,,
+48ca5220-f44d-4e53-ac9c-17c63c368120,gas.courses,premium,72,25,3,,,
+7b187c5b-ec9b-4197-a2e7-aac3b41464c6,gas.creditcard,premium,72,25,3,,,
+5cf6fb46-7391-4d58-8257-d03196e52c5b,gas.cricket,premium,72,25,3,,,
+fef10ca0-4784-418a-8a11-873e20998a95,gas.cruises,available,72,25,3,,,
+960013de-51a6-49a1-842a-2b1a5451a11e,gas.cv,premium,72,25,3,,,
+93d7e5af-e78f-4a33-8d45-b3c47f2a18b9,gas.cx,resell,72,25,3,CentralNic Ltd,08/09/2025 00:00,08/09/2026 06:00
+105cada9-52e1-45c1-8237-2b6b3a78ad5b,gas.cyou,premium,72,25,3,,,
+acc7fa89-ba51-416d-a101-98e0ffc65ad4,gas.dad,premium,72,25,3,,,
+56e44240-28d7-4feb-b4ea-dec531f8477a,gas.date,premium,72,25,3,,,
+f1be63fe-125e-40dd-baf9-057a5bd177cc,gas.dating,available,72,25,3,,,
+66a8581f-f855-4383-90d6-c3cc45f9ba72,gas.day,premium,72,25,3,,,
+e969f426-50f3-498b-8382-f8792845070d,gas.dealer,premium,72,25,3,,,
+48f719e1-b438-45c7-8000-cb3dca6d77b7,gas.deals,premium,72,25,3,,,
+42af4d60-4016-4d5b-85cf-2cf9a4aaef36,gas.degree,available,72,25,3,,,
+71191d2e-2389-43a4-b5b9-9956a1d8adf0,gas.democrat,available,72,25,3,,,
+772e3661-622a-4241-b3c1-48f8a2369bf6,gas.dentist,premium,72,25,3,,,
+9268d5a7-7e39-414c-922c-1f30e85ac629,gas.design,premium,72,25,3,,,
+d52a4deb-2508-41a3-bffb-6812b2802dc7,gas.diamonds,available,72,25,3,,,
+ffe4e725-8bf9-4cad-bd12-1cd78dc57ec2,gas.diet,available,72,25,3,,,
+ac160ca3-169f-44ca-87dc-dcfedd5c3996,gas.directory,expiring,72,25,3,Squarespace Domains II LLC,22/12/2021 08:09,22/12/2025 08:09
+e3737e60-421c-420a-985d-38c2db15b18e,gas.diy,premium,72,25,3,,,
+ebe499b6-ad58-4d7b-8bed-70b963293914,gas.doctor,resell,72,25,3,"Blue Razor Domains, LLC",02/11/2016 16:00,02/11/2026 16:00
+89c28793-36d0-4e68-b221-fce37c9b69a1,gas.dog,sold,72,25,3,GNAME.COM PTE. LTD.,08/09/2025 14:43,08/09/2026 14:43
+e4992628-987a-4d6e-a2c9-ecee97e58c70,gas.domains,available,72,25,3,,,
+8dff53b1-7fbe-48d1-9acb-9e1ca76d9b53,gas.download,premium,72,25,3,,,
+9fc5988a-036b-4098-94b8-a2267f7e5187,gas.email,sold,72,25,3,"NameCheap, Inc.",24/09/2025 00:38,24/09/2028 00:38
+6d3513c6-67aa-41a2-aa13-c45862131b90,gas.energy,resell,72,25,3,Porkbun LLC,08/02/2015 16:04,08/02/2026 16:04
+8f59809e-e1bd-45ef-baaf-385e10528b3c,gas.engineer,premium,72,25,3,,,
+1b2511f0-436e-4828-adaa-5cb6c300d4bd,gas.engineering,premium,72,25,3,,,
+dff80a73-82d4-42ed-a188-e0e89c4350e5,gas.enterprises,available,72,25,3,,,
+42f4c90e-2f98-49a4-b6a3-189540d6286d,gas.equipment,premium,72,25,3,,,
+d0517bf7-f291-4b05-8dec-d8bdc5b22fa7,gas.esq,premium,72,25,3,,,
+d0978473-1325-41af-8e7d-4214fea6342e,gas.estate,resell,72,25,3,"GoDaddy.com, LLC",11/08/2024 00:04,11/08/2026 00:04
+c6b85cfe-4d9a-44ef-a0ad-f689b6e80620,gas.events,premium,72,25,3,,,
+53faa2f3-f2c1-4ed1-94fd-cd9158244e2c,gas.expert,premium,72,25,3,,,
+f9ad32c8-7891-41e5-8bb6-cb273b100914,gas.exposed,premium,72,25,3,,,
+3ab7413c-7476-457d-a561-a616e4d7c509,gas.express,premium,72,25,3,,,
+ea598bef-e9bf-471f-9ea9-26195468a175,gas.faith,premium,72,25,3,,,
+a71bd63c-19f1-4da2-b3a1-dc23729f42ac,gas.family,available,72,25,3,,,
+c9a853ea-0dd3-4e32-8ea8-d33fa8c54139,gas.fan,premium,72,25,3,,,
+0c6400f9-198c-4950-91a5-d9f7d5662381,gas.fans,premium,72,25,3,,,
+8c214e9c-8850-469d-93c1-74509bd61e91,gas.farm,resell,72,25,3,"GoDaddy.com, LLC",22/07/2014 17:00,22/07/2026 17:00
+595fca9d-c94d-4e20-8470-9343d4ce14ff,gas.fashion,premium,72,25,3,,,
+b420f2ff-af34-4290-847d-61da5fd48756,gas.fast,premium,72,25,3,,,
+c09fbd38-5138-4edd-a0bc-a48434b854cd,gas.feedback,premium,72,25,3,,,
+83a7107a-a3a6-46d9-945f-dda31376bd7b,gas.film,premium,72,25,3,,,
+55aecd42-d281-44d9-8d37-1c2c8b9bb30f,gas.financial,premium,72,25,3,,,
+c33a93c6-5e35-45a1-a48c-03640c133bc1,gas.fish,sold,72,25,3,GNAME.COM PTE. LTD.,20/10/2025 11:40,20/10/2026 11:40
+dd3f2140-078e-4047-9ce6-4405380c0fad,gas.fishing,premium,72,25,3,,,
+52d77cb4-51cf-42e6-815f-3190c5b2b745,gas.fitness,premium,72,25,3,,,
+9c173f99-37ae-4d91-af44-231c63ad7f49,gas.florist,available,72,25,3,,,
+781c11fc-79c0-4f8f-b230-2088c089653d,gas.flowers,available,72,25,3,,,
+db7ef314-5a05-4510-8a26-85bca40d7567,gas.fm,resell,72,25,3,Namecheap,18/09/2023 21:50,18/09/2026 23:59
+0a4e2061-d1eb-45e3-9cb0-e2595eb4fbf8,gas.foo,premium,72,25,3,,,
+5d2099be-0f9c-432b-8656-435b913337b3,gas.food,premium,72,25,3,,,
+f85d0eff-6687-4461-b104-e5b78e86a792,gas.football,available,72,25,3,,,
+2ef905ab-dbcd-496c-943b-9f1f4c4e5d6d,gas.forsale,resell,72,25,3,"NameCheap, Inc.",06/06/2024 16:59,06/06/2026 16:59
+338cd98f-359c-4f62-9429-67b275fa467d,gas.forum,premium,72,25,3,,,
+60635735-e1fb-434f-99e9-f072b37bae4a,gas.foundation,resell,72,25,3,"Sav.com, LLC",11/04/2025 01:50,11/04/2026 01:50
+8f0ae788-3166-4e4c-af07-6a0133a6ded8,gas.free,premium,72,25,3,,,
+ec7ba76c-c35d-46a8-a52b-982875f56a90,gas.fun,premium,72,25,3,,,
+20a12688-ce40-4405-a80f-c2b5b437657f,gas.furniture,available,72,25,3,,,
+59ff8235-5195-4845-8f3c-2fd7b3aece43,gas.futbol,available,72,25,3,,,
+3b24c303-5ecd-4564-b591-1abb77b356ab,gas.fyi,sold,72,25,3,Squarespace Domains II LLC,13/09/2019 10:38,13/09/2026 10:38
+00aa4afc-3e7e-40a8-845f-7252bb0bb1e1,gas.game,available,72,25,3,,,
+2ba726fe-be5e-4aa8-be0f-eb6f523fcf7a,gas.garden,premium,72,25,3,,,
+9df41615-3561-4cd4-9f28-c882910dc8c4,gas.gay,premium,72,25,3,,,
+7eae37ab-24b2-4592-8497-7c463ebce118,gas.gifts,premium,72,25,3,,,
+b43ad50b-064f-414d-859f-01b0fe60ac0c,gas.gives,available,72,25,3,,,
+3307631b-e607-41b1-bd70-665c90c8b832,gas.giving,available,72,25,3,,,
+2345f248-ab17-4065-8855-013d8dc0cc70,gas.global,premium,72,25,3,,,
+1c0cb7e1-b4dd-4b51-981c-abf5cac98a4c,gas.gmbh,sold,72,25,3,Cronon GmbH,25/09/2021 07:28,25/09/2026 07:28
+a7e16780-722b-43bc-a18a-d2188ac2252c,gas.gold,resell,72,25,3,"DNSPod, Inc.",08/05/2018 23:17,08/05/2026 23:17
+a35179d9-d60f-4d37-bade-a6bcf789ffae,gas.golf,expiring,72,25,3,"NameCheap, Inc.",24/12/2021 07:07,24/12/2025 07:07
+35bacb89-2a64-49af-bd9c-973b4ee1d59b,gas.graphics,premium,72,25,3,,,
+d58471e7-fec5-44ce-8f98-93dc262b9aac,gas.gratis,premium,72,25,3,,,
+e7281568-a712-4e72-b2c2-e0ec897eabd5,gas.green,premium,72,25,3,,,
+75214789-08a4-4958-9430-0fa8bb653b60,gas.gripe,premium,72,25,3,,,
+e816f5a6-3f75-456f-80c4-599a544207f4,gas.group,resell,72,25,3,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),25/08/2023 15:15,25/08/2028 15:15
+3bf2242d-edce-4815-adef-60b3b948bff7,gas.guitars,available,72,25,3,,,
+63d6b8fc-ccbc-45f0-9436-2b6860f2badd,gas.guru,premium,72,25,3,,,
+fedd1b6a-3f86-4836-a12f-952330c43f71,gas.haus,available,72,25,3,,,
+712f7a5e-fc03-41b5-bc07-d6be9defda56,gas.health,premium,72,25,3,,,
+aa265e3e-4cee-4ab8-b191-c5bea06e32d4,gas.healthcare,premium,72,25,3,,,
+ae158924-0d33-44a6-ac03-31a9f97d897c,gas.help,premium,72,25,3,,,
+80f84a5f-b9a4-494a-82ca-d46fe3c24a82,gas.hiphop,premium,72,25,3,,,
+30e17966-b517-4f05-a074-23b02741d822,gas.hiv,available,72,25,3,,,
 e5fa90d6-d12e-4b93-97cd-159b1ef5880e,gas.hockey,available,72,25,3,,,
 daf5a5f0-982c-46c9-9e43-2f4c780a4f50,gas.holdings,premium,72,25,3,,,
 fc5b088b-c020-4e59-aa03-4f7ceaf8067c,gas.holiday,available,72,25,3,,,
@@ -830,172 +999,3 @@ ec406bc9-5101-4830-a381-2b15014f8fc3,gas.webcam,premium,72,25,3,,,
 04efe6d7-3423-4086-8f31-6f4094b139fc,gas.wedding,premium,72,25,3,,,
 ce32ad7e-7b9d-4c15-bf79-2b2c0e7816db,gas.win,premium,72,25,3,,,
 72d40957-4d7b-491a-ad4c-dce6074403c4,gas.wine,available,72,25,3,,,
-095a5c5e-9204-4730-b2a0-5c9f72a9983e,gas.works,resell,72,25,3,"Sav.com, LLC",03/11/2023 02:27,03/11/2026 02:27
-8de0844e-99db-4042-994e-906a268639ca,gas.yoga,premium,72,25,3,,,
-0f144436-c94c-4adb-9c68-eab264e469f8,gas.you,premium,72,25,3,,,
-e6fa9525-b575-489f-9c79-268f27de9c5f,gas.zone,sold,72,25,3,"NameCheap, Inc.",23/11/2025 01:29,23/11/2026 01:29
-364968d4-7ce4-417b-9800-f7e69e1e9195,gas.ac,sold,72,25,3,"NameCheap, Inc.",30/10/2025 16:16,30/10/2026 16:16
-35f8e313-de61-41cd-a75b-cafac70eac25,gas.academy,resell,72,25,3,"GoDaddy.com, LLC",20/09/2017 03:41,20/09/2026 03:41
-75ccbec1-479c-4533-81ea-7f5e928e176d,gas.accountant,premium,72,25,3,,,
-6ed4e9c2-7de0-4903-9064-a7cda6099d9e,gas.accountants,available,72,25,3,,,
-6de60c2f-c9c8-4ebc-802f-4ec2eaab9d16,gas.actor,available,72,25,3,,,
-17a8c2a3-43a2-4cbd-97be-d9e08c823bfe,gas.adult,available,72,25,3,,,
-e102c82c-f0bd-4cc7-9f76-9882493ef517,gas.agency,sold,72,25,3,"Key-Systems, LLC",09/01/2025 07:30,09/01/2027 07:30
-a85d51a7-e748-4c60-b1ec-c3bf3b98437c,gas.airforce,available,72,25,3,,,
-52c9d09b-a994-46e4-b424-6eead415c705,gas.apartments,available,72,25,3,,,
-30e51c5a-9bfe-43d3-bee8-10d277d07589,gas.archi,available,72,25,3,,,
-31175002-af4a-405d-8991-46f5df3d02dc,gas.art,premium,72,25,3,,,
-f3d056bd-5aa7-4379-a2c7-442009bfe0b5,gas.asia,expiring,72,25,3,"Spaceship, Inc.",16/12/2024 16:30,16/12/2025 16:30
-7b85b136-3829-468d-b800-5ad78e856a97,gas.associates,premium,72,25,3,,,
-f69e1d6a-7f64-4cb9-ae0f-c9e402635bd1,gas.at,sold,72,25,3,registrant:     EA4344331-NICAT,,
-78431167-cefe-4198-8c27-3b2f4c0db6df,gas.attorney,premium,72,25,3,,,
-849a6780-95bf-4669-8c5d-7f105d8d9173,gas.auction,premium,72,25,3,,,
-c061c508-0508-421d-aeb5-e5b10c8e78e1,gas.audio,available,72,25,3,,,
-72d5f122-3972-4d2f-a8b4-a5b1ffac4863,gas.auto,available,72,25,3,,,
-0ce57de9-6a8c-4ec5-995d-ae4aa8712d65,gas.baby,sold,72,25,3,Gname.com Pte. Ltd.,11/10/2025 17:13,11/10/2026 23:59
-0c831bbc-9e5b-4fc5-8176-dd3622ef8fcd,gas.band,sold,72,25,3,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,28/02/2025 15:15,28/02/2026 15:15
-580ec652-a107-4d1f-9338-774b1aee0ba6,gas.bar,premium,72,25,3,,,
-161f89b4-2633-43c0-94d6-dc71f4a7b507,gas.bargains,available,72,25,3,,,
-4d1215f6-1f0b-4eae-9bc4-b403ac47d4f6,gas.bayern,premium,72,25,3,,,
-39bc3559-5bc9-4968-a65b-1c4dca464ebf,gas.beauty,resell,72,25,3,"Spaceship, Inc.",19/06/2025 11:45,19/06/2026 23:59
-257bc865-d683-4049-8927-c8f14cc13e44,gas.beer,premium,72,25,3,,,
-4ba27fcc-e568-4d8a-9606-f16195ea7abe,gas.best,premium,72,25,3,,,
-3a20765f-369b-45c4-9235-f14f3b83bbae,gas.bet,resell,72,25,3,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,17/04/2025 15:15,17/04/2026 15:15
-0988aec4-4b02-4589-be99-180819dd4ae7,gas.bid,premium,72,25,3,,,
-f224dbcd-8f3d-441d-901a-0948591890ba,gas.bike,sold,72,25,3,"Sav.com, LLC - 37",20/04/2024 15:15,20/04/2026 15:15
-cbbb9f36-a03a-4436-89bd-1f285933dd62,gas.bingo,available,72,25,3,,,
-8793bd0e-cede-4d9f-9176-0dd37d46f43c,gas.bio,premium,72,25,3,,,
-9f81d97d-f509-4a67-aee8-452441202033,gas.biz,sold,72,25,3,Unstoppable Domains Inc.,27/03/2002 04:59,26/03/2028 23:59
-d2adf06f-663f-40ed-88dc-67040c61864f,gas.black,available,72,25,3,,,
-35621b7f-e8e7-4e85-813c-15b2145997f4,gas.blackfriday,premium,72,25,3,,,
-9e07f39c-ed2a-44b0-b757-8d5e99e48c8c,gas.blog,premium,72,25,3,,,
-b446f6de-d3c1-4b99-9ec0-d99d39c94c46,gas.boats,resell,72,25,3,Dynadot LLC,06/09/2025 17:00,06/09/2026 23:59
-93725a09-1276-4915-acf6-6604c10c7704,gas.boo,premium,72,25,3,,,
-b0cb619e-a571-4970-ba9a-1227175b66f0,gas.boston,premium,72,25,3,,,
-3fb692a8-7720-4d43-9e98-efb79417765a,gas.bot,premium,72,25,3,,,
-828548c2-efa2-4ea9-9a8e-2b7cc81006a5,gas.boutique,resell,72,25,3,Dynadot Inc,29/06/2025 17:00,29/06/2026 17:00
-328e9ff3-e722-4883-b2d3-400860f91e4a,gas.build,premium,72,25,3,,,
-5ba89fab-93b3-41ac-a9f3-a1edd61d1c2c,gas.builders,premium,72,25,3,,,
-f741139b-7664-44a9-a088-0a609b65b8e1,gas.business,premium,72,25,3,,,
-c12d01da-d255-4fc5-a32c-956f0e49ce24,gas.buzz,resell,72,25,3,"eNom, LLC",18/06/2015 21:39,17/06/2026 23:59
-0748fd1b-b215-4dc8-96c4-0e43b1aaad46,gas.ca,resell,72,25,3,Grape Inc.,13/04/2004 15:59,13/04/2027 04:00
-ca4b3418-db98-4c18-8796-b88e51d9dfef,gas.cab,premium,72,25,3,,,
-caaa530c-e194-4a7f-a91e-cb67e411d8cd,gas.cam,premium,72,25,3,,,
-83933460-e2f1-4296-ae0c-498105c946a0,gas.camera,available,72,25,3,,,
-36fff769-3c00-450e-b4d1-e440bc69d9ff,gas.camp,available,72,25,3,,,
-3eb95b43-d749-4e39-8be6-b1aca8b2e07c,gas.capital,sold,72,25,3,"NameCheap, Inc.",14/09/2025 07:09,14/09/2026 07:09
-4fcbeed8-7fb1-4b3c-901b-3c14ae1f271d,gas.car,available,72,25,3,,,
-3b20de34-4f70-4707-afa3-fbb0117d190d,gas.careers,available,72,25,3,,,
-c96ef508-cdb8-461a-b7a7-b03edba13c61,gas.cars,available,72,25,3,,,
-3eff5b9f-da92-4ea0-bed2-a8e314ffa8e6,gas.casa,premium,72,25,3,,,
-54cca72e-490a-4103-91d5-654982e73a39,gas.casino,available,72,25,3,,,
-b4304b47-4154-4b9b-84ae-0c04943573fc,gas.catering,available,72,25,3,,,
-466e396d-359f-4894-8866-b27bcc90e775,gas.cc,resell,72,25,3,"22net, Inc.",17/08/2006 08:00,17/08/2026 08:00
-6b1bf367-e9a1-4a5b-8aba-568e36245c45,gas.center,premium,72,25,3,,,
-746d720b-1735-4176-8840-c2ad055df4e8,gas.ceo,premium,72,25,3,,,
-d1670332-6b00-4856-bb93-2624a42bf2b2,gas.cfd,premium,72,25,3,,,
-aee7ca3c-ddfe-41b7-9816-d0551dbeb750,gas.charity,premium,72,25,3,,,
-f675ee13-f3b7-463e-8d1b-3ec2a605d2dd,gas.cheap,premium,72,25,3,,,
-f134b421-e68c-41a0-a86b-cb6305c12760,gas.christmas,available,72,25,3,,,
-76555c0c-5f56-4267-8058-c6b006085cf5,gas.church,available,72,25,3,,,
-477ab258-e05a-4abf-80db-9c44ab51bfb3,gas.cleaning,premium,72,25,3,,,
-3549381c-72d4-4d73-9825-238a19ddad83,gas.click,sold,72,25,3,"Dynadot, LLC",25/11/2014 16:00,25/11/2026 16:00
-02b9b990-39ec-4881-9db7-2ac34c6d6f9d,gas.clinic,premium,72,25,3,,,
-314545dc-7661-4b53-8590-715dd97c8397,gas.clothing,premium,72,25,3,,,
-c549460c-3bc9-4e6d-96a8-450849e1c26c,gas.cloud,premium,72,25,3,,,
-94c97187-916d-4280-9417-6f23e35ec005,gas.club,resell,72,25,3,"NameCheap, Inc.",19/06/2020 17:22,19/06/2026 17:22
-32a1b119-af3d-4fd3-b7d5-9fd242cd2bc6,gas.coach,available,72,25,3,,,
-374133d6-19b4-479d-a875-5f5c7cb94c4a,gas.codes,sold,72,25,3,"GoDaddy.com, LLC",13/11/2025 11:28,13/11/2026 11:28
-e328c152-8b43-459c-bf85-92d85f1be6c5,gas.college,premium,72,25,3,,,
-39f5cd59-48a6-4e24-846f-7a0c1a7f5f0d,gas.community,available,72,25,3,,,
-1a9f71a9-4365-4691-9c36-149ac22f0cf3,gas.company,resell,72,25,3,1API GmbH,21/06/2015 16:00,21/06/2026 16:00
-5e0e4dea-e432-424d-97c1-2696445de939,gas.computer,premium,72,25,3,,,
-3088c50a-b013-4985-9878-8ea0160e884b,gas.condos,premium,72,25,3,,,
-e6b73caa-2f01-4d85-98c4-38003fe9a0f3,gas.construction,premium,72,25,3,,,
-da890285-fe3f-4b55-95f2-398a7b91dff8,gas.contact,expiring,72,25,3,"GoDaddy.com, LLC",09/12/2020 16:00,09/12/2025 16:00
-29020111-f145-40e0-aeb9-48bbbcb20512,gas.contractors,premium,72,25,3,,,
-9ae6947b-70e5-437f-9746-234691fbbecd,gas.cooking,premium,72,25,3,,,
-0e838585-043d-4d82-93c4-e351066bd226,gas.coupons,premium,72,25,3,,,
-48ca5220-f44d-4e53-ac9c-17c63c368120,gas.courses,premium,72,25,3,,,
-7b187c5b-ec9b-4197-a2e7-aac3b41464c6,gas.creditcard,premium,72,25,3,,,
-5cf6fb46-7391-4d58-8257-d03196e52c5b,gas.cricket,premium,72,25,3,,,
-fef10ca0-4784-418a-8a11-873e20998a95,gas.cruises,available,72,25,3,,,
-960013de-51a6-49a1-842a-2b1a5451a11e,gas.cv,premium,72,25,3,,,
-93d7e5af-e78f-4a33-8d45-b3c47f2a18b9,gas.cx,resell,72,25,3,CentralNic Ltd,08/09/2025 00:00,08/09/2026 06:00
-105cada9-52e1-45c1-8237-2b6b3a78ad5b,gas.cyou,premium,72,25,3,,,
-acc7fa89-ba51-416d-a101-98e0ffc65ad4,gas.dad,premium,72,25,3,,,
-56e44240-28d7-4feb-b4ea-dec531f8477a,gas.date,premium,72,25,3,,,
-f1be63fe-125e-40dd-baf9-057a5bd177cc,gas.dating,available,72,25,3,,,
-66a8581f-f855-4383-90d6-c3cc45f9ba72,gas.day,premium,72,25,3,,,
-e969f426-50f3-498b-8382-f8792845070d,gas.dealer,premium,72,25,3,,,
-48f719e1-b438-45c7-8000-cb3dca6d77b7,gas.deals,premium,72,25,3,,,
-42af4d60-4016-4d5b-85cf-2cf9a4aaef36,gas.degree,available,72,25,3,,,
-71191d2e-2389-43a4-b5b9-9956a1d8adf0,gas.democrat,available,72,25,3,,,
-772e3661-622a-4241-b3c1-48f8a2369bf6,gas.dentist,premium,72,25,3,,,
-9268d5a7-7e39-414c-922c-1f30e85ac629,gas.design,premium,72,25,3,,,
-d52a4deb-2508-41a3-bffb-6812b2802dc7,gas.diamonds,available,72,25,3,,,
-ffe4e725-8bf9-4cad-bd12-1cd78dc57ec2,gas.diet,available,72,25,3,,,
-ac160ca3-169f-44ca-87dc-dcfedd5c3996,gas.directory,expiring,72,25,3,Squarespace Domains II LLC,22/12/2021 08:09,22/12/2025 08:09
-e3737e60-421c-420a-985d-38c2db15b18e,gas.diy,premium,72,25,3,,,
-ebe499b6-ad58-4d7b-8bed-70b963293914,gas.doctor,resell,72,25,3,"Blue Razor Domains, LLC",02/11/2016 16:00,02/11/2026 16:00
-89c28793-36d0-4e68-b221-fce37c9b69a1,gas.dog,sold,72,25,3,GNAME.COM PTE. LTD.,08/09/2025 14:43,08/09/2026 14:43
-e4992628-987a-4d6e-a2c9-ecee97e58c70,gas.domains,available,72,25,3,,,
-8dff53b1-7fbe-48d1-9acb-9e1ca76d9b53,gas.download,premium,72,25,3,,,
-9fc5988a-036b-4098-94b8-a2267f7e5187,gas.email,sold,72,25,3,"NameCheap, Inc.",24/09/2025 00:38,24/09/2028 00:38
-6d3513c6-67aa-41a2-aa13-c45862131b90,gas.energy,resell,72,25,3,Porkbun LLC,08/02/2015 16:04,08/02/2026 16:04
-8f59809e-e1bd-45ef-baaf-385e10528b3c,gas.engineer,premium,72,25,3,,,
-1b2511f0-436e-4828-adaa-5cb6c300d4bd,gas.engineering,premium,72,25,3,,,
-dff80a73-82d4-42ed-a188-e0e89c4350e5,gas.enterprises,available,72,25,3,,,
-42f4c90e-2f98-49a4-b6a3-189540d6286d,gas.equipment,premium,72,25,3,,,
-d0517bf7-f291-4b05-8dec-d8bdc5b22fa7,gas.esq,premium,72,25,3,,,
-d0978473-1325-41af-8e7d-4214fea6342e,gas.estate,resell,72,25,3,"GoDaddy.com, LLC",11/08/2024 00:04,11/08/2026 00:04
-c6b85cfe-4d9a-44ef-a0ad-f689b6e80620,gas.events,premium,72,25,3,,,
-53faa2f3-f2c1-4ed1-94fd-cd9158244e2c,gas.expert,premium,72,25,3,,,
-f9ad32c8-7891-41e5-8bb6-cb273b100914,gas.exposed,premium,72,25,3,,,
-3ab7413c-7476-457d-a561-a616e4d7c509,gas.express,premium,72,25,3,,,
-ea598bef-e9bf-471f-9ea9-26195468a175,gas.faith,premium,72,25,3,,,
-a71bd63c-19f1-4da2-b3a1-dc23729f42ac,gas.family,available,72,25,3,,,
-c9a853ea-0dd3-4e32-8ea8-d33fa8c54139,gas.fan,premium,72,25,3,,,
-0c6400f9-198c-4950-91a5-d9f7d5662381,gas.fans,premium,72,25,3,,,
-8c214e9c-8850-469d-93c1-74509bd61e91,gas.farm,resell,72,25,3,"GoDaddy.com, LLC",22/07/2014 17:00,22/07/2026 17:00
-595fca9d-c94d-4e20-8470-9343d4ce14ff,gas.fashion,premium,72,25,3,,,
-b420f2ff-af34-4290-847d-61da5fd48756,gas.fast,premium,72,25,3,,,
-c09fbd38-5138-4edd-a0bc-a48434b854cd,gas.feedback,premium,72,25,3,,,
-83a7107a-a3a6-46d9-945f-dda31376bd7b,gas.film,premium,72,25,3,,,
-55aecd42-d281-44d9-8d37-1c2c8b9bb30f,gas.financial,premium,72,25,3,,,
-c33a93c6-5e35-45a1-a48c-03640c133bc1,gas.fish,sold,72,25,3,GNAME.COM PTE. LTD.,20/10/2025 11:40,20/10/2026 11:40
-dd3f2140-078e-4047-9ce6-4405380c0fad,gas.fishing,premium,72,25,3,,,
-52d77cb4-51cf-42e6-815f-3190c5b2b745,gas.fitness,premium,72,25,3,,,
-9c173f99-37ae-4d91-af44-231c63ad7f49,gas.florist,available,72,25,3,,,
-781c11fc-79c0-4f8f-b230-2088c089653d,gas.flowers,available,72,25,3,,,
-db7ef314-5a05-4510-8a26-85bca40d7567,gas.fm,resell,72,25,3,Namecheap,18/09/2023 21:50,18/09/2026 23:59
-0a4e2061-d1eb-45e3-9cb0-e2595eb4fbf8,gas.foo,premium,72,25,3,,,
-5d2099be-0f9c-432b-8656-435b913337b3,gas.food,premium,72,25,3,,,
-f85d0eff-6687-4461-b104-e5b78e86a792,gas.football,available,72,25,3,,,
-2ef905ab-dbcd-496c-943b-9f1f4c4e5d6d,gas.forsale,resell,72,25,3,"NameCheap, Inc.",06/06/2024 16:59,06/06/2026 16:59
-338cd98f-359c-4f62-9429-67b275fa467d,gas.forum,premium,72,25,3,,,
-60635735-e1fb-434f-99e9-f072b37bae4a,gas.foundation,resell,72,25,3,"Sav.com, LLC",11/04/2025 01:50,11/04/2026 01:50
-8f0ae788-3166-4e4c-af07-6a0133a6ded8,gas.free,premium,72,25,3,,,
-ec7ba76c-c35d-46a8-a52b-982875f56a90,gas.fun,premium,72,25,3,,,
-20a12688-ce40-4405-a80f-c2b5b437657f,gas.furniture,available,72,25,3,,,
-59ff8235-5195-4845-8f3c-2fd7b3aece43,gas.futbol,available,72,25,3,,,
-3b24c303-5ecd-4564-b591-1abb77b356ab,gas.fyi,sold,72,25,3,Squarespace Domains II LLC,13/09/2019 10:38,13/09/2026 10:38
-00aa4afc-3e7e-40a8-845f-7252bb0bb1e1,gas.game,available,72,25,3,,,
-2ba726fe-be5e-4aa8-be0f-eb6f523fcf7a,gas.garden,premium,72,25,3,,,
-9df41615-3561-4cd4-9f28-c882910dc8c4,gas.gay,premium,72,25,3,,,
-7eae37ab-24b2-4592-8497-7c463ebce118,gas.gifts,premium,72,25,3,,,
-b43ad50b-064f-414d-859f-01b0fe60ac0c,gas.gives,available,72,25,3,,,
-3307631b-e607-41b1-bd70-665c90c8b832,gas.giving,available,72,25,3,,,
-2345f248-ab17-4065-8855-013d8dc0cc70,gas.global,premium,72,25,3,,,
-1c0cb7e1-b4dd-4b51-981c-abf5cac98a4c,gas.gmbh,sold,72,25,3,Cronon GmbH,25/09/2021 07:28,25/09/2026 07:28
-a7e16780-722b-43bc-a18a-d2188ac2252c,gas.gold,resell,72,25,3,"DNSPod, Inc.",08/05/2018 23:17,08/05/2026 23:17
-a35179d9-d60f-4d37-bade-a6bcf789ffae,gas.golf,expiring,72,25,3,"NameCheap, Inc.",24/12/2021 07:07,24/12/2025 07:07
-35bacb89-2a64-49af-bd9c-973b4ee1d59b,gas.graphics,premium,72,25,3,,,
-d58471e7-fec5-44ce-8f98-93dc262b9aac,gas.gratis,premium,72,25,3,,,
-e7281568-a712-4e72-b2c2-e0ec897eabd5,gas.green,premium,72,25,3,,,
-75214789-08a4-4958-9430-0fa8bb653b60,gas.gripe,premium,72,25,3,,,
-e816f5a6-3f75-456f-80c4-599a544207f4,gas.group,resell,72,25,3,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),25/08/2023 15:15,25/08/2028 15:15
-3bf2242d-edce-4815-adef-60b3b948bff7,gas.guitars,available,72,25,3,,,
-63d6b8fc-ccbc-45f0-9436-2b6860f2badd,gas.guru,premium,72,25,3,,,
-fedd1b6a-3f86-4836-a12f-952330c43f71,gas.haus,available,72,25,3,,,
-712f7a5e-fc03-41b5-bc07-d6be9defda56,gas.health,premium,72,25,3,,,
