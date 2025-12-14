@@ -1,4 +1,23 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+9ff6b6bc-9d34-4737-86ff-b44638801b60,service.gay,premium,70,34,7,,,
+ba4ee848-6b30-4c38-8d8e-05eb4bc5a134,service.gg,sold,70,34,7,"Spaceship, Inc (https://www.spaceship.com)",,
+2193dd19-f52b-4280-946e-eea9953f24b5,service.gift,available,70,34,7,,,
+75027a08-fda6-46f7-8b53-98a04fae959d,service.gifts,premium,70,34,7,,,
+76a508d5-afbb-4ccd-9d0d-82e14adcd99a,service.gives,available,70,34,7,,,
+0b0a38e0-3779-420b-80cd-ca64689c6888,service.giving,available,70,34,7,,,
+d57c24a7-a593-4067-b4d0-778622c00d0a,service.glass,available,70,34,7,,,
+613590f3-5ec8-4950-8c7c-5a3a7b18ab94,service.global,premium,70,34,7,,,
+ab065eb2-87c9-4f3e-816a-8274a8d06b6e,service.gmbh,expiring,70,34,7,"COREhub, S.R.L.",21/12/2017 11:47,21/12/2025 11:47
+f7705fa3-bee6-480c-b1bb-b1561afb1f0a,service.gold,resell,70,34,7,"Chengdu West Dimension Digital Technology Co., Ltd.",14/10/2018 14:46,14/10/2026 14:46
+01248e56-4007-4e94-a617-228b6e9430bd,service.graphics,available,70,34,7,,,
+5c000184-79a8-415a-bd52-1b1a27c2b5d0,service.gratis,premium,70,34,7,,,
+e5c09305-a91b-4030-93c8-5f790b4f6359,service.green,premium,70,34,7,,,
+f2f8fd13-2e18-4bcd-bac3-637d7a9e1e61,service.gripe,available,70,34,7,,,
+c56e292f-865c-462c-a69b-8773383c2b58,service.guitars,available,70,34,7,,,
+c6e908df-b76a-4689-820b-7284c5860143,service.hair,premium,70,34,7,,,
+3801502c-9d01-4f92-8884-a1fbd1ebefd8,service.health,premium,70,34,7,,,
+2f79a9f1-da04-482e-a0b8-ad3d8d5ca950,service.healthcare,premium,70,34,7,,,
+5f26f078-5e87-407b-9ec9-48aef89bbd80,service.hiphop,premium,70,34,7,,,
 c4be3431-980d-439e-807a-c9bc697822d3,service.hiv,premium,70,34,7,,,
 ab40a06a-f71b-4f0d-ad93-50bb79d87dd6,service.hockey,available,70,34,7,,,
 5fe12024-5802-4cc5-93d5-6930f6c11e5d,service.holdings,available,70,34,7,,,
@@ -304,25 +323,6 @@ cb97da65-8602-4616-be17-fae1f5b56371,service.gallery,expiring,70,34,7,"GoDaddy.c
 b535c346-a959-4a69-b162-08adb74a45fb,service.game,premium,70,34,7,,,
 13f02a73-1414-4537-9140-9a4d6e77fc38,service.games,resell,70,34,7,"DNSPod, Inc.",15/03/2021 15:59,15/03/2026 15:59
 35e71f49-2290-4057-8af2-4aa766f886ae,service.garden,premium,70,34,7,,,
-9ff6b6bc-9d34-4737-86ff-b44638801b60,service.gay,premium,70,34,7,,,
-ba4ee848-6b30-4c38-8d8e-05eb4bc5a134,service.gg,sold,70,34,7,"Spaceship, Inc (https://www.spaceship.com)",,
-2193dd19-f52b-4280-946e-eea9953f24b5,service.gift,available,70,34,7,,,
-75027a08-fda6-46f7-8b53-98a04fae959d,service.gifts,premium,70,34,7,,,
-76a508d5-afbb-4ccd-9d0d-82e14adcd99a,service.gives,available,70,34,7,,,
-0b0a38e0-3779-420b-80cd-ca64689c6888,service.giving,available,70,34,7,,,
-d57c24a7-a593-4067-b4d0-778622c00d0a,service.glass,available,70,34,7,,,
-613590f3-5ec8-4950-8c7c-5a3a7b18ab94,service.global,premium,70,34,7,,,
-ab065eb2-87c9-4f3e-816a-8274a8d06b6e,service.gmbh,expiring,70,34,7,"COREhub, S.R.L.",21/12/2017 11:47,21/12/2025 11:47
-f7705fa3-bee6-480c-b1bb-b1561afb1f0a,service.gold,resell,70,34,7,"Chengdu West Dimension Digital Technology Co., Ltd.",14/10/2018 14:46,14/10/2026 14:46
-01248e56-4007-4e94-a617-228b6e9430bd,service.graphics,available,70,34,7,,,
-5c000184-79a8-415a-bd52-1b1a27c2b5d0,service.gratis,premium,70,34,7,,,
-e5c09305-a91b-4030-93c8-5f790b4f6359,service.green,premium,70,34,7,,,
-f2f8fd13-2e18-4bcd-bac3-637d7a9e1e61,service.gripe,available,70,34,7,,,
-c56e292f-865c-462c-a69b-8773383c2b58,service.guitars,available,70,34,7,,,
-c6e908df-b76a-4689-820b-7284c5860143,service.hair,premium,70,34,7,,,
-3801502c-9d01-4f92-8884-a1fbd1ebefd8,service.health,premium,70,34,7,,,
-2f79a9f1-da04-482e-a0b8-ad3d8d5ca950,service.healthcare,premium,70,34,7,,,
-5f26f078-5e87-407b-9ec9-48aef89bbd80,service.hiphop,premium,70,34,7,,,
 b0cc7e1f-11c3-4f97-897e-4c4b06d8f2e6,electricity.at,sold,80,80,11,DomainQuadrat Marketing GmbH ( https://nic.at/registrar/581 ),,
 969d017f-911f-488f-bc52-d88418fbed3c,electricity.cloud,premium,80,80,11,,,
 44f4698d-d4b2-401b-a4e3-ae4f39df8c3f,electricity.dev,premium,80,80,11,,,
@@ -337,6 +337,27 @@ e126de18-bfd7-43bf-9954-5b905ca9e784,electricity.online,premium,80,80,11,,,
 43d32877-1467-4f32-b76b-b34af1e8b7a3,electricity.tech,premium,80,80,11,,,
 52dfdea0-d020-4298-b1be-4028a6419f90,electricity.us,resell,80,80,11,"GoDaddy.com, LLC",24/04/2002 14:02,23/04/2026 23:59
 f5b8004c-8b8b-4faf-85c5-19f7c57078c4,electricity.zone,available,80,80,11,,,
+1277e81b-8a48-44a9-a536-5d483d198e38,water.gripe,available,108,41,5,,,
+4f20e085-91c5-40d7-a150-d46d29600683,water.guitars,available,108,41,5,,,
+b8a9e685-bb29-4733-84ae-9a93b35d93fc,water.guru,resell,108,41,5,"Spaceship, Inc.",20/04/2023 15:15,20/04/2026 15:15
+6ce2fee2-d209-49a1-8ddd-ad36a6ca6dc8,water.hair,premium,108,41,5,,,
+01c1d739-339c-445a-b6f1-5c1a727cd931,water.health,premium,108,41,5,,,
+e87874f3-a154-4de7-9664-39c2a299968a,water.help,resell,108,41,5,Dynadot LLC,11/03/2025 12:20,11/03/2026 23:59
+9ae1bfe0-8a76-4262-9169-6671595bcad2,water.hiphop,available,108,41,5,,,
+d558911a-8ea3-445d-a442-1b2f63e49d92,water.hiv,available,108,41,5,,,
+d871e9ce-05b9-4476-8016-41257eca0897,water.hockey,available,108,41,5,,,
+4823e45b-b546-449b-8052-db0dbeff1296,water.holiday,available,108,41,5,,,
+166f1318-faa0-42aa-a45e-a501f3ef5ce3,water.horse,expired,108,41,5,Dynadot Inc,28/10/2023 02:59,28/10/2025 02:59
+ba1adf03-ef48-4c6a-94e2-fc822e68cccc,water.hospital,available,108,41,5,,,
+2913bec8-206b-4e75-8ee5-5e86c03dd4aa,water.host,premium,108,41,5,,,
+945a07c6-7a25-4da8-b7eb-2ebbcaf42ed3,water.hosting,available,108,41,5,,,
+e6151e1f-077d-4ab8-92f2-6abad9e71f2e,water.hot,premium,108,41,5,,,
+9be1f5d1-5393-4c6a-81cc-1afba6adaacc,water.how,premium,108,41,5,,,
+eb2628d3-8696-4c61-8c2e-f7076b875943,water.im,premium,108,41,5,,,
+c3030978-4c42-4b15-a42c-21839680e14d,water.immo,available,108,41,5,,,
+c7b38859-7c68-44af-9587-600e8c535937,water.immobilien,available,108,41,5,,,
+c07f2844-8335-41ee-9c3e-8bf4f81f21e1,water.in,resell,108,41,5,"Spaceship, Inc.",16/02/2005 06:31,16/02/2026 06:31
+b275fcf1-dd03-4cea-b862-e479cd0b9af3,water.info,resell,108,41,5,"GoDaddy.com, LLC",13/07/2002 19:23,13/07/2026 19:23
 261880a6-7205-4edf-a59b-2714b919b97f,water.ing,premium,108,41,5,,,
 80453057-bc75-44a1-ad0b-871ffba60b9e,water.institute,expiring,108,41,5,"NameCheap, Inc.",11/12/2024 04:07,11/12/2025 04:07
 652ba3f9-58fa-478e-9f4d-e048639c862a,water.insure,available,108,41,5,,,
@@ -604,27 +625,6 @@ e65611a9-bc22-448d-9de7-02a3078bb06e,water.gmbh,available,108,41,5,,,
 7bece0ff-d36f-4f7f-bc29-fa141c19e879,water.gold,resell,108,41,5,"DNSPod, Inc.",22/09/2024 15:15,22/09/2026 15:15
 213daa0f-5d64-446e-a014-45be0a43ef5e,water.gratis,available,108,41,5,,,
 3c1f95f5-3049-4dba-aabe-4c329618d98d,water.green,premium,108,41,5,,,
-1277e81b-8a48-44a9-a536-5d483d198e38,water.gripe,available,108,41,5,,,
-4f20e085-91c5-40d7-a150-d46d29600683,water.guitars,available,108,41,5,,,
-b8a9e685-bb29-4733-84ae-9a93b35d93fc,water.guru,resell,108,41,5,"Spaceship, Inc.",20/04/2023 15:15,20/04/2026 15:15
-6ce2fee2-d209-49a1-8ddd-ad36a6ca6dc8,water.hair,premium,108,41,5,,,
-01c1d739-339c-445a-b6f1-5c1a727cd931,water.health,premium,108,41,5,,,
-e87874f3-a154-4de7-9664-39c2a299968a,water.help,resell,108,41,5,Dynadot LLC,11/03/2025 12:20,11/03/2026 23:59
-9ae1bfe0-8a76-4262-9169-6671595bcad2,water.hiphop,available,108,41,5,,,
-d558911a-8ea3-445d-a442-1b2f63e49d92,water.hiv,available,108,41,5,,,
-d871e9ce-05b9-4476-8016-41257eca0897,water.hockey,available,108,41,5,,,
-4823e45b-b546-449b-8052-db0dbeff1296,water.holiday,available,108,41,5,,,
-166f1318-faa0-42aa-a45e-a501f3ef5ce3,water.horse,expired,108,41,5,Dynadot Inc,28/10/2023 02:59,28/10/2025 02:59
-ba1adf03-ef48-4c6a-94e2-fc822e68cccc,water.hospital,available,108,41,5,,,
-2913bec8-206b-4e75-8ee5-5e86c03dd4aa,water.host,premium,108,41,5,,,
-945a07c6-7a25-4da8-b7eb-2ebbcaf42ed3,water.hosting,available,108,41,5,,,
-e6151e1f-077d-4ab8-92f2-6abad9e71f2e,water.hot,premium,108,41,5,,,
-9be1f5d1-5393-4c6a-81cc-1afba6adaacc,water.how,premium,108,41,5,,,
-eb2628d3-8696-4c61-8c2e-f7076b875943,water.im,premium,108,41,5,,,
-c3030978-4c42-4b15-a42c-21839680e14d,water.immo,available,108,41,5,,,
-c7b38859-7c68-44af-9587-600e8c535937,water.immobilien,available,108,41,5,,,
-c07f2844-8335-41ee-9c3e-8bf4f81f21e1,water.in,resell,108,41,5,"Spaceship, Inc.",16/02/2005 06:31,16/02/2026 06:31
-b275fcf1-dd03-4cea-b862-e479cd0b9af3,water.info,resell,108,41,5,"GoDaddy.com, LLC",13/07/2002 19:23,13/07/2026 19:23
 e683e4d4-4497-459c-80d3-b22b4330c129,supply.at,available,100,88,6,,,
 da2e0753-7ba9-4220-a0d4-ff6657801a32,supply.expert,premium,100,88,6,,,
 b65d1969-4cd4-428f-bf10-74b5ad822d33,supply.me,premium,100,88,6,,,

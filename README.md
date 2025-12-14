@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Utilities one word dom
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain                | Status    | Attract. | Demand | Length | Registrar                                               | Created          | Expires          |
-| --------------------- | --------- | -------- | ------ | ------ | ------------------------------------------------------- | ---------------- | ---------------- |
-| service.hiv           | premium   | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.hockey        | available | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.holdings      | available | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.holiday       | available | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.horse         | available | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.host          | premium   | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.hosting       | available | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.hot           | premium   | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.how           | premium   | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.icu           | premium   | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.im            | premium   | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.immo          | sold      | 70       | 34%    | 7      | united-domains GmbH                                     | 04/10/2022 08:17 | 04/10/2026 08:17 |
-| service.inc           | premium   | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.info          | resell    | 70       | 34%    | 7      | Scaleway SAS                                            | 27/07/2001 19:26 | 27/07/2026 19:26 |
-| service.ing           | premium   | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.ink           | resell    | 70       | 34%    | 7      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) | 07/05/2019 19:12 | 07/05/2026 23:59 |
-| service.institute     | resell    | 70       | 34%    | 7      | GoDaddy.com, LLC                                        | 19/06/2019 17:10 | 19/06/2026 17:10 |
-| service.international | resell    | 70       | 34%    | 7      | Sav.com, LLC                                            | 30/08/2024 06:19 | 30/08/2026 06:19 |
-| service.investments   | premium   | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.io            | resell    | 70       | 34%    | 7      | Key-Systems GmbH                                        | 19/01/2005 20:58 | 19/01/2026 20:58 |
-| service.irish         | available | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.it            | expiring  | 70       | 34%    | 7      |                                                         | 17/12/2024 09:00 | 17/12/2025 00:00 |
-| service.jewelry       | available | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.juegos        | available | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.kaufen        | sold      | 70       | 34%    | 7      | Cronon GmbH                                             | 11/09/2024 16:24 | 11/09/2026 16:24 |
-| service.kids          | premium   | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.kim           | resell    | 70       | 34%    | 7      | Sav.com, LLC - 10                                       | 28/08/2025 15:15 | 28/08/2026 15:15 |
-| service.la            | expiring  | 70       | 34%    | 7      | LA Domain Names                                         | 14/12/2018 21:24 | 14/12/2025 23:59 |
-| service.lawyer        | premium   | 70       | 34%    | 7      |                                                         |                  |                  |
-| service.lgbt          | premium   | 70       | 34%    | 7      |                                                         |                  |                  |
+| Domain             | Status    | Attract. | Demand | Length | Registrar                                           | Created          | Expires          |
+| ------------------ | --------- | -------- | ------ | ------ | --------------------------------------------------- | ---------------- | ---------------- |
+| service.gay        | premium   | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.gg         | sold      | 70       | 34%    | 7      | Spaceship, Inc (https://www.spaceship.com)          |                  |                  |
+| service.gift       | available | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.gifts      | premium   | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.gives      | available | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.giving     | available | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.glass      | available | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.global     | premium   | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.gmbh       | expiring  | 70       | 34%    | 7      | COREhub, S.R.L.                                     | 21/12/2017 11:47 | 21/12/2025 11:47 |
+| service.gold       | resell    | 70       | 34%    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. | 14/10/2018 14:46 | 14/10/2026 14:46 |
+| service.graphics   | available | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.gratis     | premium   | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.green      | premium   | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.gripe      | available | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.guitars    | available | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.hair       | premium   | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.health     | premium   | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.healthcare | premium   | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.hiphop     | premium   | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.hiv        | premium   | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.hockey     | available | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.holdings   | available | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.holiday    | available | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.horse      | available | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.host       | premium   | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.hosting    | available | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.hot        | premium   | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.how        | premium   | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.icu        | premium   | 70       | 34%    | 7      |                                                     |                  |                  |
+| service.im         | premium   | 70       | 34%    | 7      |                                                     |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Utilities-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,6 +90,7 @@ If you want to search & filters the complete database of [Utilities one word dom
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,537       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 61,582       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,156,621    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
