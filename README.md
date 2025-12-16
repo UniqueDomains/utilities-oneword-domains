@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Utilities one word dom
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status    | Attract. | Demand | Length | Registrar                                           | Created          | Expires          |
-| ------------------ | --------- | -------- | ------ | ------ | --------------------------------------------------- | ---------------- | ---------------- |
-| service.fitness    | resell    | 70       | 33%    | 7      | Sav.com, LLC                                        | 25/01/2024 18:00 | 25/01/2026 18:00 |
-| service.flights    | premium   | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.florist    | available | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.flowers    | available | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.foo        | premium   | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.food       | premium   | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.football   | available | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.forsale    | premium   | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.forum      | premium   | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.foundation | resell    | 70       | 33%    | 7      | Dynadot Inc                                         | 29/08/2025 19:46 | 29/08/2026 19:46 |
-| service.fun        | premium   | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.fund       | resell    | 70       | 33%    | 7      | DNSPod, Inc.                                        | 06/11/2024 15:15 | 06/11/2026 15:15 |
-| service.furniture  | premium   | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.futbol     | available | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.fyi        | expiring  | 70       | 33%    | 7      | Porkbun LLC                                         | 22/12/2024 01:54 | 22/12/2025 01:54 |
-| service.gallery    | expiring  | 70       | 33%    | 7      | GoDaddy.com, LLC                                    | 03/01/2020 14:49 | 03/01/2026 14:49 |
-| service.game       | premium   | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.games      | resell    | 70       | 33%    | 7      | DNSPod, Inc.                                        | 15/03/2021 15:59 | 15/03/2026 15:59 |
-| service.garden     | premium   | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.gay        | premium   | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.gg         | resell    | 70       | 33%    | 7      | Spaceship, Inc (https://www.spaceship.com)          |                  |                  |
-| service.gift       | available | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.gifts      | premium   | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.gives      | available | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.giving     | available | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.glass      | available | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.global     | premium   | 70       | 33%    | 7      |                                                     |                  |                  |
-| service.gmbh       | expiring  | 70       | 33%    | 7      | COREhub, S.R.L.                                     | 21/12/2017 11:47 | 21/12/2025 11:47 |
-| service.gold       | resell    | 70       | 33%    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. | 14/10/2018 14:46 | 14/10/2026 14:46 |
-| service.graphics   | available | 70       | 33%    | 7      |                                                     |                  |                  |
+| Domain              | Status    | Attract. | Demand | Length | Registrar                                                        | Created          | Expires          |
+| ------------------- | --------- | -------- | ------ | ------ | ---------------------------------------------------------------- | ---------------- | ---------------- |
+| service.date        | premium   | 70       | 33%    | 7      |                                                                  |                  |                  |
+| service.deal        | premium   | 70       | 33%    | 7      |                                                                  |                  |                  |
+| service.dealer      | premium   | 70       | 33%    | 7      |                                                                  |                  |                  |
+| service.degree      | available | 70       | 33%    | 7      |                                                                  |                  |                  |
+| service.delivery    | resell    | 70       | 33%    | 7      | NameCheap, Inc.                                                  | 11/03/2015 23:36 | 11/03/2026 23:36 |
+| service.democrat    | available | 70       | 33%    | 7      |                                                                  |                  |                  |
+| service.dental      | premium   | 70       | 33%    | 7      |                                                                  |                  |                  |
+| service.dentist     | available | 70       | 33%    | 7      |                                                                  |                  |                  |
+| service.diamonds    | premium   | 70       | 33%    | 7      |                                                                  |                  |                  |
+| service.diet        | available | 70       | 33%    | 7      |                                                                  |                  |                  |
+| service.digital     | resell    | 70       | 33%    | 7      | GoDaddy.com, LLC                                                 | 15/01/2019 11:16 | 15/01/2026 11:16 |
+| service.direct      | expiring  | 70       | 33%    | 7      | Spaceship, Inc.                                                  | 10/01/2024 15:15 | 10/01/2026 15:15 |
+| service.directory   | expiring  | 70       | 33%    | 7      | NameCheap, Inc.                                                  | 06/01/2024 18:55 | 06/01/2026 18:55 |
+| service.discount    | premium   | 70       | 33%    | 7      |                                                                  |                  |                  |
+| service.diy         | premium   | 70       | 33%    | 7      |                                                                  |                  |                  |
+| service.download    | premium   | 70       | 33%    | 7      |                                                                  |                  |                  |
+| service.earth       | expiring  | 70       | 33%    | 7      | GoDaddy.com, LLC                                                 | 10/01/2020 17:40 | 10/01/2026 17:40 |
+| service.email       | resell    | 70       | 33%    | 7      | DNSPod, Inc.                                                     | 20/09/2024 15:15 | 20/09/2026 15:15 |
+| service.energy      | expiring  | 70       | 33%    | 7      | GoDaddy.com, LLC                                                 | 21/12/2021 13:15 | 21/12/2025 13:15 |
+| service.engineering | resell    | 70       | 33%    | 7      | Sav.com, LLC - 38                                                | 21/11/2024 17:00 | 21/11/2026 17:00 |
+| service.equipment   | expired   | 70       | 33%    | 7      | Sav.com, LLC                                                     | 21/10/2024 19:44 | 21/10/2025 19:44 |
+| service.esq         | premium   | 70       | 33%    | 7      |                                                                  |                  |                  |
+| service.eu          | sold      | 70       | 33%    | 7      | Name: united-domains GmbH Website: https://www.united-domains.de |                  |                  |
+| service.events      | resell    | 70       | 33%    | 7      | Dynadot Inc                                                      | 10/07/2025 17:00 | 10/07/2026 17:00 |
+| service.exchange    | resell    | 70       | 33%    | 7      | NameCheap, Inc.                                                  | 19/09/2023 08:19 | 19/09/2026 08:19 |
+| service.expert      | sold      | 70       | 33%    | 7      | 1API GmbH                                                        | 15/07/2015 16:00 | 15/07/2026 16:00 |
+| service.exposed     | sold      | 70       | 33%    | 7      | Cloudflare, Inc                                                  | 09/10/2025 12:16 | 09/10/2026 12:16 |
+| service.faith       | premium   | 70       | 33%    | 7      |                                                                  |                  |                  |
+| service.family      | premium   | 70       | 33%    | 7      |                                                                  |                  |                  |
+| service.fans        | premium   | 70       | 33%    | 7      |                                                                  |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Utilities-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Utilities one word dom
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,281       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 62,232       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,157,142    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,157,759    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
