@@ -1,4 +1,12 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+693a5b19-4123-4ac4-9878-c5c3611bebba,service.creditcard,premium,70,33,7,,,
+204f7952-37be-450a-be89-6f09da67c4df,service.cricket,premium,70,33,7,,,
+47f45512-bb9b-47d7-ba01-b2d0378eb4d2,service.cruises,available,70,33,7,,,
+5ab3d64e-cc5b-4009-9a82-0388376094e5,service.cv,premium,70,33,7,,,
+7d7b95e9-ce3c-447b-97e4-5b0252163f19,service.cx,resell,70,33,7,West263 International Limited,23/07/2024 00:00,23/07/2026 23:56
+f3937e6d-4def-4016-9552-a23b24f04d36,service.cyou,premium,70,33,7,,,
+1e20054a-0b0b-415a-94cd-d9b2b5a15ffb,service.dad,premium,70,33,7,,,
+a9473418-173c-4e37-923f-1a2fb1023f03,service.dance,available,70,33,7,,,
 61782778-3465-4d95-932b-c6cc3a9a438f,service.date,premium,70,33,7,,,
 1fd50ed2-79f2-4bd2-9dea-e85e3e78ec81,service.deal,premium,70,33,7,,,
 53fe1c2f-d1bb-4974-a709-737724e48f3a,service.dealer,premium,70,33,7,,,
@@ -320,14 +328,6 @@ b272a78c-ef10-40bf-8b04-f13803f2546e,service.cooking,premium,70,33,7,,,
 27ff5efa-33d0-49e9-99d5-c24464bbcd4e,service.country,premium,70,33,7,,,
 0a13aa0e-c105-4853-96e0-c936e236e18c,service.coupons,premium,70,33,7,,,
 dc5356e0-20c5-4df1-926c-655515278c8f,service.courses,premium,70,33,7,,,
-693a5b19-4123-4ac4-9878-c5c3611bebba,service.creditcard,premium,70,33,7,,,
-204f7952-37be-450a-be89-6f09da67c4df,service.cricket,premium,70,33,7,,,
-47f45512-bb9b-47d7-ba01-b2d0378eb4d2,service.cruises,available,70,33,7,,,
-5ab3d64e-cc5b-4009-9a82-0388376094e5,service.cv,premium,70,33,7,,,
-7d7b95e9-ce3c-447b-97e4-5b0252163f19,service.cx,resell,70,33,7,West263 International Limited,23/07/2024 00:00,23/07/2026 23:56
-f3937e6d-4def-4016-9552-a23b24f04d36,service.cyou,premium,70,33,7,,,
-1e20054a-0b0b-415a-94cd-d9b2b5a15ffb,service.dad,premium,70,33,7,,,
-a9473418-173c-4e37-923f-1a2fb1023f03,service.dance,available,70,33,7,,,
 b0cc7e1f-11c3-4f97-897e-4c4b06d8f2e6,electricity.at,sold,80,80,11,DomainQuadrat Marketing GmbH ( https://nic.at/registrar/581 ),,
 969d017f-911f-488f-bc52-d88418fbed3c,electricity.cloud,premium,80,80,11,,,
 44f4698d-d4b2-401b-a4e3-ae4f39df8c3f,electricity.dev,premium,80,80,11,,,
@@ -342,6 +342,27 @@ e126de18-bfd7-43bf-9954-5b905ca9e784,electricity.online,premium,80,80,11,,,
 43d32877-1467-4f32-b76b-b34af1e8b7a3,electricity.tech,premium,80,80,11,,,
 52dfdea0-d020-4298-b1be-4028a6419f90,electricity.us,resell,80,80,11,"GoDaddy.com, LLC",24/04/2002 14:02,23/04/2026 23:59
 f5b8004c-8b8b-4faf-85c5-19f7c57078c4,electricity.zone,available,80,80,11,,,
+c97a264d-d118-4390-b5eb-6bb998443c2e,water.autos,premium,108,40,5,,,
+f1655086-ee57-4914-a10e-a88f6b15f39e,water.bar,premium,108,40,5,,,
+610ca790-1e4f-4c61-9c76-27b5ea7aff33,water.bargains,premium,108,40,5,,,
+bcbd42ed-85ab-4635-8e88-b9f38210b988,water.bayern,available,108,40,5,,,
+02b52058-2db9-4827-a9b1-8f688d4eaebb,water.beauty,premium,108,40,5,,,
+e7ca2d6f-9609-4fd8-9c0a-2fd1d93905ca,water.beer,resell,108,40,5,"GoDaddy.com, LLC",22/01/2024 20:43,22/01/2026 20:43
+7e61b10b-7f57-4ade-b46c-446e10875ded,water.berlin,premium,108,40,5,,,
+0d2c7843-5fa3-49ca-b48f-8723edf2a97b,water.bid,resell,108,40,5,Porkbun,26/07/2019 14:50,26/07/2026 14:50
+e9ea3e14-d42b-4e31-afc4-4cd93468c140,water.bike,resell,108,40,5,Dynadot Inc,30/01/2018 16:25,30/01/2026 16:25
+0a0bd1d3-d0af-4813-a476-e09e8dacd414,water.bingo,available,108,40,5,,,
+deaf2114-1c02-4516-8ea0-e4c991a1abbd,water.black,resell,108,40,5,"Xiamen ChinaSource Internet Service Co., Ltd",16/06/2025 15:15,16/06/2026 15:15
+37e6d882-f07c-4369-8ecb-934875feed23,water.blackfriday,available,108,40,5,,,
+2978e3f1-9684-4eca-8e02-62287fd1b665,water.blue,premium,108,40,5,,,
+c449279c-1471-4c40-bb8e-b90656fa0a5a,water.boats,premium,108,40,5,,,
+4651b976-8b02-4075-97d5-edc4d35f4f44,water.boo,premium,108,40,5,,,
+9c050e6a-38b5-437f-9538-897ebfcbd203,water.boston,premium,108,40,5,,,
+ad7178d4-e1d7-4e63-9511-df721d86660c,water.bot,premium,108,40,5,,,
+7e5cba7d-fe55-409b-99c7-d2a98f377a08,water.build,sold,108,40,5,"Go Daddy, LLC",10/12/2017 14:03,10/12/2026 23:59
+48913238-88ed-4c1e-a701-74f10bd2be07,water.builders,available,108,40,5,,,
+08f80b8f-c616-4a27-8990-2c374a8ceae4,water.buzz,resell,108,40,5,"GoDaddy.com, LLC",20/05/2018 18:01,20/05/2026 18:01
+60042a8e-a6aa-4fe2-8610-f700fb436e36,water.bz,available,108,40,5,,,
 21acef2e-ccca-4c0b-84de-1ccb0163a55e,water.ca,resell,108,40,5,BareMetal.com inc,29/09/2000 03:12,03/10/2027 04:00
 eba988f9-5ebb-40b4-8aa2-3075205b6bbe,water.cam,premium,108,40,5,,,
 c25ac11b-28ad-4c4b-a937-e7260f3a9859,water.capital,resell,108,40,5,"Sav.com, LLC - 39",04/10/2024 15:15,04/10/2026 15:15
@@ -614,27 +635,6 @@ ef04877a-e99e-4e25-bf30-9cafa438dae0,water.associates,available,108,40,5,,,
 9a2e149b-46f5-415d-b80a-67962842d814,water.auction,premium,108,40,5,,,
 07cb9a49-8adb-471f-8ece-c30bb7a7cd52,water.audio,available,108,40,5,,,
 59fefbf0-5c51-41b4-a4f9-2fc9a4db4f57,water.auto,available,108,40,5,,,
-c97a264d-d118-4390-b5eb-6bb998443c2e,water.autos,premium,108,40,5,,,
-f1655086-ee57-4914-a10e-a88f6b15f39e,water.bar,premium,108,40,5,,,
-610ca790-1e4f-4c61-9c76-27b5ea7aff33,water.bargains,premium,108,40,5,,,
-bcbd42ed-85ab-4635-8e88-b9f38210b988,water.bayern,available,108,40,5,,,
-02b52058-2db9-4827-a9b1-8f688d4eaebb,water.beauty,premium,108,40,5,,,
-e7ca2d6f-9609-4fd8-9c0a-2fd1d93905ca,water.beer,resell,108,40,5,"GoDaddy.com, LLC",22/01/2024 20:43,22/01/2026 20:43
-7e61b10b-7f57-4ade-b46c-446e10875ded,water.berlin,premium,108,40,5,,,
-0d2c7843-5fa3-49ca-b48f-8723edf2a97b,water.bid,resell,108,40,5,Porkbun,26/07/2019 14:50,26/07/2026 14:50
-e9ea3e14-d42b-4e31-afc4-4cd93468c140,water.bike,resell,108,40,5,Dynadot Inc,30/01/2018 16:25,30/01/2026 16:25
-0a0bd1d3-d0af-4813-a476-e09e8dacd414,water.bingo,available,108,40,5,,,
-deaf2114-1c02-4516-8ea0-e4c991a1abbd,water.black,resell,108,40,5,"Xiamen ChinaSource Internet Service Co., Ltd",16/06/2025 15:15,16/06/2026 15:15
-37e6d882-f07c-4369-8ecb-934875feed23,water.blackfriday,available,108,40,5,,,
-2978e3f1-9684-4eca-8e02-62287fd1b665,water.blue,premium,108,40,5,,,
-c449279c-1471-4c40-bb8e-b90656fa0a5a,water.boats,premium,108,40,5,,,
-4651b976-8b02-4075-97d5-edc4d35f4f44,water.boo,premium,108,40,5,,,
-9c050e6a-38b5-437f-9538-897ebfcbd203,water.boston,premium,108,40,5,,,
-ad7178d4-e1d7-4e63-9511-df721d86660c,water.bot,premium,108,40,5,,,
-7e5cba7d-fe55-409b-99c7-d2a98f377a08,water.build,sold,108,40,5,"Go Daddy, LLC",10/12/2017 14:03,10/12/2026 23:59
-48913238-88ed-4c1e-a701-74f10bd2be07,water.builders,available,108,40,5,,,
-08f80b8f-c616-4a27-8990-2c374a8ceae4,water.buzz,resell,108,40,5,"GoDaddy.com, LLC",20/05/2018 18:01,20/05/2026 18:01
-60042a8e-a6aa-4fe2-8610-f700fb436e36,water.bz,available,108,40,5,,,
 e683e4d4-4497-459c-80d3-b22b4330c129,supply.at,available,100,88,6,,,
 da2e0753-7ba9-4220-a0d4-ff6657801a32,supply.expert,premium,100,88,6,,,
 b65d1969-4cd4-428f-bf10-74b5ad822d33,supply.me,premium,100,88,6,,,
