@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Utilities one word dom
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain              | Status    | Attract. | Demand | Length | Registrar                     | Created          | Expires          |
-| ------------------- | --------- | -------- | ------ | ------ | ----------------------------- | ---------------- | ---------------- |
-| service.creditcard  | premium   | 70       | 33%    | 7      |                               |                  |                  |
-| service.cricket     | premium   | 70       | 33%    | 7      |                               |                  |                  |
-| service.cruises     | available | 70       | 33%    | 7      |                               |                  |                  |
-| service.cv          | premium   | 70       | 33%    | 7      |                               |                  |                  |
-| service.cx          | resell    | 70       | 33%    | 7      | West263 International Limited | 23/07/2024 00:00 | 23/07/2026 23:56 |
-| service.cyou        | premium   | 70       | 33%    | 7      |                               |                  |                  |
-| service.dad         | premium   | 70       | 33%    | 7      |                               |                  |                  |
-| service.dance       | available | 70       | 33%    | 7      |                               |                  |                  |
-| service.date        | premium   | 70       | 33%    | 7      |                               |                  |                  |
-| service.deal        | premium   | 70       | 33%    | 7      |                               |                  |                  |
-| service.dealer      | premium   | 70       | 33%    | 7      |                               |                  |                  |
-| service.degree      | available | 70       | 33%    | 7      |                               |                  |                  |
-| service.delivery    | resell    | 70       | 33%    | 7      | NameCheap, Inc.               | 11/03/2015 23:36 | 11/03/2026 23:36 |
-| service.democrat    | available | 70       | 33%    | 7      |                               |                  |                  |
-| service.dental      | premium   | 70       | 33%    | 7      |                               |                  |                  |
-| service.dentist     | available | 70       | 33%    | 7      |                               |                  |                  |
-| service.diamonds    | premium   | 70       | 33%    | 7      |                               |                  |                  |
-| service.diet        | available | 70       | 33%    | 7      |                               |                  |                  |
-| service.digital     | resell    | 70       | 33%    | 7      | GoDaddy.com, LLC              | 15/01/2019 11:16 | 15/01/2026 11:16 |
-| service.direct      | expiring  | 70       | 33%    | 7      | Spaceship, Inc.               | 10/01/2024 15:15 | 10/01/2026 15:15 |
-| service.directory   | expiring  | 70       | 33%    | 7      | NameCheap, Inc.               | 06/01/2024 18:55 | 06/01/2026 18:55 |
-| service.discount    | premium   | 70       | 33%    | 7      |                               |                  |                  |
-| service.diy         | premium   | 70       | 33%    | 7      |                               |                  |                  |
-| service.download    | premium   | 70       | 33%    | 7      |                               |                  |                  |
-| service.earth       | expiring  | 70       | 33%    | 7      | GoDaddy.com, LLC              | 10/01/2020 17:40 | 10/01/2026 17:40 |
-| service.email       | resell    | 70       | 33%    | 7      | DNSPod, Inc.                  | 20/09/2024 15:15 | 20/09/2026 15:15 |
-| service.energy      | expiring  | 70       | 33%    | 7      | GoDaddy.com, LLC              | 21/12/2021 13:15 | 21/12/2025 13:15 |
-| service.engineering | resell    | 70       | 33%    | 7      | Sav.com, LLC - 38             | 21/11/2024 17:00 | 21/11/2026 17:00 |
-| service.equipment   | expired   | 70       | 33%    | 7      | Sav.com, LLC                  | 21/10/2024 19:44 | 21/10/2025 19:44 |
-| service.esq         | premium   | 70       | 33%    | 7      |                               |                  |                  |
+| Domain              | Status    | Attract. | Demand | Length | Registrar                                                                | Created          | Expires          |
+| ------------------- | --------- | -------- | ------ | ------ | ------------------------------------------------------------------------ | ---------------- | ---------------- |
+| service.academy     | resell    | 70       | 33%    | 7      | Spaceship, Inc.                                                          | 07/07/2022 13:15 | 07/07/2026 13:15 |
+| service.accountant  | premium   | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.accountants | available | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.actor       | available | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.adult       | premium   | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.airforce    | resell    | 70       | 33%    | 7      | Cronon GmbH                                                              | 19/05/2024 23:31 | 19/05/2026 23:31 |
+| service.art         | premium   | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.asia        | resell    | 70       | 33%    | 7      | InterNetX GmbH                                                           | 27/06/2008 07:04 | 27/06/2026 07:04 |
+| service.associates  | premium   | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.at          | sold      | 70       | 33%    | 7      | sourceheads Information Technology GmbH ( https://nic.at/registrar/181 ) |                  |                  |
+| service.attorney    | premium   | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.auction     | premium   | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.auto        | available | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.autos       | premium   | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.baby        | premium   | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.bar         | premium   | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.beauty      | premium   | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.berlin      | premium   | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.best        | expired   | 70       | 33%    | 7      | Dynadot LLC                                                              | 02/11/2018 09:03 | 02/11/2025 23:59 |
+| service.bid         | resell    | 70       | 33%    | 7      | Dynadot Inc                                                              | 28/10/2020 04:48 | 28/10/2026 04:48 |
+| service.bingo       | available | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.bio         | resell    | 70       | 33%    | 7      | Spaceship, Inc.                                                          | 11/08/2022 13:15 | 11/08/2026 13:15 |
+| service.black       | resell    | 70       | 33%    | 7      | Xiamen ChinaSource Internet Service Co., Ltd                             | 05/08/2025 15:15 | 05/08/2026 15:15 |
+| service.blackfriday | available | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.blog        | premium   | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.blue        | resell    | 70       | 33%    | 7      | Spaceship, Inc.                                                          | 17/04/2021 14:30 | 17/04/2026 14:30 |
+| service.boats       | premium   | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.bond        | premium   | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.boo         | premium   | 70       | 33%    | 7      |                                                                          |                  |                  |
+| service.boston      | expired   | 70       | 33%    | 7      | GoDaddy.com, LLC                                                         | 10/10/2017 16:00 | 10/10/2025 16:00 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Utilities-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
