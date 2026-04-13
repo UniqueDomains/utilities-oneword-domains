@@ -1,10 +1,10 @@
-# Utilities One-Word Domains (20,821)
+# Utilities One-Word Domains (20,822)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C821%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C822%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of utilities one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,821 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,822 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 20,821 domains
+**Public extract:** 10,000 rows · **Live catalog:** 20,822 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/sector/utilities`  
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain              | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                   |
 | ------------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| gas.wine            | available | $75.98      | —             | 72             | 99     | 3      | namecheap                                   |
+| gas.taxi            | available | $69.98      | —             | 72             | 99     | 3      | namecheap                                   |
 | solar.me            | resell    | $69,000     | $27.99        | 72             | 92     | 5      | GoDaddy.com, LLC                            |
 | transmission.tech   | premium   | $312.50     | $1,250        | —              | 96     | 12     | name.com                                    |
-| gas.taxi            | available | $69.98      | —             | 72             | 99     | 3      | namecheap                                   |
+| waste.software      | available | $56.98      | —             | 104            | 98     | 5      | namecheap                                   |
 | powersupply.com     | resell    | $113,850    | $19.99        | 54             | 88     | 12     | Sea Wasp, LLC                               |
 | transmission.store  | premium   | $312.50     | $1,250        | —              | 96     | 12     | name.com                                    |
-| waste.software      | available | $56.98      | —             | 104            | 98     | 5      | namecheap                                   |
+| waste.rip           | available | $32.98      | —             | 104            | 98     | 5      | namecheap                                   |
 | heating.me          | resell    | $3,448.85   | $27.99        | 76             | 84     | 7      | Dynadot Inc                                 |
 | transmission.space  | premium   | $325        | $1,300        | —              | 96     | 12     | namecheap                                   |
-| waste.rip           | available | $32.98      | —             | 104            | 98     | 5      | namecheap                                   |
+| waste.monster       | available | $19.98      | —             | 104            | 98     | 5      | namecheap                                   |
 | renewable.org       | resell    | $920,000    | $21.99        | 84             | 80     | 9      | GoDaddy Online Services Cayman Islands Ltd. |
 | transmission.site   | premium   | $312.50     | $1,250        | —              | 96     | 12     | name.com                                    |
-| waste.monster       | available | $19.98      | —             | 104            | 98     | 5      | namecheap                                   |
+| waste.cx            | available | $26.98      | —             | 104            | 98     | 5      | namecheap                                   |
 | renewable.gg        | resell    | $82.98      | —             | 84             | 80     | 9      | 1API (http://www.1api.net)                  |
 | transmission.online | premium   | $312.50     | $1,250        | —              | 96     | 12     | name.com                                    |
-| waste.cx            | available | $26.98      | —             | 104            | 98     | 5      | namecheap                                   |
+| powersupply.zone    | available | $51.98      | —             | 54             | 88     | 12     | namecheap                                   |
 | watersupply.com     | resell    | $126,243.55 | $19.99        | 56             | 72     | 12     | GoDaddy.com, LLC                            |
 | transmission.dev    | premium   | $198.75     | $198.75       | —              | 96     | 12     | name.com                                    |
-| powersupply.zone    | available | $51.98      | —             | 54             | 88     | 12     | namecheap                                   |
+| powersupply.space   | available | $25.98      | —             | 54             | 88     | 12     | namecheap                                   |
 | power.charity       | resell    | $37.98      | —             | 98             | 62     | 5      | Porkbun LLC                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract           | Unique Domains                                   |
 | ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 20,821 live domains                              |
+| 10,000-row public sample | 20,822 live domains                              |
 | Static CSV / JSON        | live search and daily refresh                    |
 | Basic exported fields    | deeper price, demand, risk, and workflow context |
 | No persistence           | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Utilities One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Utilities One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
