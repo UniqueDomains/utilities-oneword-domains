@@ -1,10 +1,10 @@
-# Utilities One-Word Domains (14,951)
+# Utilities One-Word Domains (14,952)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C951%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C952%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 14,922 one-word domains tied to utilities-related keywords across 505 TLDs. Median ask is $1,199. Updated daily, with examples such as utility.ryukyu and electricity.new.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **14,951 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **14,952 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 14,951 domains · **Median ask:** $1,199.55 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 14,952 domains · **Median ask:** $1,199.55 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/sector/Utilities`  
 **Best for:** founders, investors, studios
 
@@ -68,6 +68,7 @@ print(df.head())
 | electricity.barcelona | available | $38.98    | —             | 84             | 17     | 11     | namecheap        |
 | electricity.forex     | available | $19.99    | —             | 84             | 17     | 11     | name.com         |
 | electricity.hamburg   | available | $59.99    | —             | 84             | 17     | 11     | name.com         |
+| electricity.living    | premium   | —         | —             | 84             | 17     | 11     | —                |
 | electricity.moi       | available | $39.99    | —             | 84             | 17     | 11     | name.com         |
 | electricity.new       | available | $549.99   | —             | 84             | 17     | 11     | name.com         |
 | electricity.paris     | available | $51.98    | —             | 84             | 17     | 11     | namecheap        |
@@ -83,7 +84,6 @@ print(df.head())
 | electricity.shop      | premium   | $625      | —             | 84             | 16     | 11     | name.com         |
 | services.travel       | available | $39.99    | —             | 76             | 28     | 8      | name.com         |
 | services.me           | resell    | $6,898.85 | $27.99        | 72             | 28     | 8      | GoDaddy.com, LLC |
-| services.shop         | premium   | $1,250    | —             | 76             | 30     | 8      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 14,951 live domains                        |
+| 1,000-row public sample | 14,952 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Utilities One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Utilities One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
