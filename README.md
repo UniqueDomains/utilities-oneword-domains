@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| gas.organic       | available | $19.99    | —             | high           | low    | 3      | name.com             |
-| water.bot         | resell    | $650      | $650          | high           | medium | 5      | GoDaddy.com LLC      |
-| fuel.garden       | premium   | $854      | $29.50        | high           | low    | 4      | namesilo             |
-| fuel.archi        | available | $24.99    | —             | high           | low    | 4      | name.com             |
-| water.info        | resell    | $5,750    | $35.99        | high           | medium | 5      | GoDaddy.com, LLC     |
-| fuel.green        | premium   | $625      | —             | high           | low    | 4      | name.com             |
-| fuel.builders     | available | $7.99     | —             | high           | low    | 4      | name.com             |
-| natural.cv        | resell    | $14.98    | —             | high           | low    | 7      | Porkbun              |
-| fuel.industries   | premium   | $242      | $242          | high           | low    | 4      | namesilo             |
-| fuel.cleaning     | available | $75.49    | $75.49        | high           | low    | 4      | namesilo             |
-| production.energy | resell    | $21.99    | —             | high           | low    | 10     | Spaceship, Inc.      |
-| fuel.ltda         | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo             |
-| fuel.construction | available | $15.99    | —             | high           | low    | 4      | name.com             |
-| gas.energy        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC          |
-| fuel.srl          | premium   | $54.28    | $30.68        | high           | low    | 4      | namesilo             |
-| fuel.contractors  | available | $9.99     | —             | high           | low    | 4      | name.com             |
-| fuel.co           | resell    | —         | —             | high           | low    | 4      | Hello Internet Corp. |
-| fuel.systems      | premium   | $500      | —             | high           | low    | 4      | name.com             |
-| fuel.engineering  | available | $11.99    | —             | high           | low    | 4      | name.com             |
-| fuel.company      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC     |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| flow.giving       | available | $5.99     | —             | high           | medium | 4      | name.com        |
+| fuel.cloud        | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| cells.accountant  | premium   | $437.50   | —             | medium         | low    | 5      | name.com        |
+| cells.airforce    | available | $134.98   | —             | medium         | low    | 5      | namecheap       |
+| fuel.energy       | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc. |
+| cells.art         | premium   | $153.75   | —             | medium         | low    | 5      | name.com        |
+| cells.associates  | available | $21.99    | —             | medium         | low    | 5      | name.com        |
+| home.solar        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
+| cells.boo         | premium   | $73.75    | —             | medium         | low    | 5      | name.com        |
+| cells.coffee      | available | $23.99    | —             | medium         | low    | 5      | name.com        |
+| clean.care        | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
+| cells.shop        | premium   | $6,250    | —             | medium         | low    | 5      | name.com        |
+| cells.democrat    | available | $9.99     | —             | medium         | low    | 5      | name.com        |
+| clean.city        | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
+| cells.vip         | premium   | $3,125    | —             | medium         | low    | 5      | name.com        |
+| cells.engineering | available | $11.99    | —             | medium         | low    | 5      | name.com        |
+| clean.solar       | resell    | —         | —             | high           | low    | 5      | Virtualia LLC   |
+| green.barcelona   | premium   | $6,796.66 | $42.99        | medium         | medium | 5      | Nominalia       |
+| cells.film        | available | $89.99    | —             | medium         | low    | 5      | name.com        |
+| green.coffee      | resell    | —         | —             | high           | medium | 5      | Porkbun LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
