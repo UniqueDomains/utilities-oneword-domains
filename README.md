@@ -16,7 +16,7 @@ This selection includes one-word utilities domain names spanning 506 different T
 
 **Public extract:** 1,000 rows · **Live catalog:** 72,408 domains · **Median ask:** $539.51 · **High-demand under $2,500:** 299
 
-**Last updated:** 2026-08-13
+**Last updated:** 2026-08-14
 **Canonical page:** `https://unique.domains/domains/sector/utilities`
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Utilities Domain Names (506 TLDs)*. Version 2026-08-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Utilities Domain Names (506 TLDs)*. Version 2026-08-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
