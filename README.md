@@ -16,7 +16,7 @@ This selection includes one-word utilities domain names spanning 506 different T
 
 **Public extract:** 1,000 rows · **Live catalog:** 75,689 domains · **Median ask:** $518.98 · **High-demand under $2,500:** 299
 
-**Last updated:** 2026-08-16
+**Last updated:** 2026-08-17
 **Canonical page:** `https://unique.domains/domains/sector/utilities`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| fuel.organic       | available | $19.99    | —             | high           | low    | 4      | name.com        |
-| gas.energy         | resell    | —         | —             | high           | low    | 3      | Porkbun LLC     |
-| fuel.green         | premium   | $625      | —             | high           | low    | 4      | name.com        |
-| cells.farm         | available | $13.99    | —             | medium         | low    | 5      | name.com        |
-| fuel.cloud         | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
-| clean.build        | premium   | $625      | —             | high           | low    | 5      | name.com        |
-| cells.green        | available | $11.99    | —             | medium         | low    | 5      | name.com        |
-| fuel.energy        | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc. |
-| clean.inc          | premium   | $2,015    | $2,600        | high           | low    | 5      | namecheap       |
-| cells.industries   | available | $17.49    | —             | medium         | low    | 5      | name.com        |
-| clean.ai           | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc. |
-| clean.limited      | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo        |
-| civil.energy       | available | $5.98     | $155.98       | low            | low    | 5      | namecheap       |
-| clean.business     | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
-| clean.ltda         | premium   | $56.64    | $33.04        | high           | low    | 5      | namesilo        |
-| clean.builders     | available | $7.99     | —             | high           | low    | 5      | name.com        |
-| clean.care         | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
-| clean.online       | premium   | $781.25   | —             | high           | low    | 5      | name.com        |
-| clean.construction | available | $15.99    | —             | high           | low    | 5      | name.com        |
-| clean.city         | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| gas.organic       | available | $19.99    | —             | high           | low    | 3      | name.com             |
+| water.bot         | resell    | $650      | $650          | high           | medium | 5      | GoDaddy.com LLC      |
+| fuel.garden       | premium   | $854      | $29.50        | high           | low    | 4      | namesilo             |
+| fuel.archi        | available | $24.99    | —             | high           | low    | 4      | name.com             |
+| water.info        | resell    | $5,750    | $35.99        | high           | medium | 5      | GoDaddy.com, LLC     |
+| fuel.green        | premium   | $625      | —             | high           | low    | 4      | name.com             |
+| fuel.builders     | available | $7.99     | —             | high           | low    | 4      | name.com             |
+| production.energy | resell    | $21.99    | —             | high           | low    | 10     | Spaceship, Inc.      |
+| fuel.industries   | premium   | $242      | $242          | high           | low    | 4      | namesilo             |
+| fuel.cleaning     | available | $75.49    | $75.49        | high           | low    | 4      | namesilo             |
+| gas.energy        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC          |
+| fuel.systems      | premium   | $500      | —             | high           | low    | 4      | name.com             |
+| fuel.construction | available | $15.99    | —             | high           | low    | 4      | name.com             |
+| fuel.co           | resell    | —         | —             | high           | low    | 4      | Hello Internet Corp. |
+| fuel.tech         | premium   | $1,562.50 | $6,250        | high           | low    | 4      | name.com             |
+| fuel.contractors  | available | $9.99     | —             | high           | low    | 4      | name.com             |
+| fuel.company      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC     |
+| line.eco          | premium   | $9,375    | —             | high           | medium | 4      | name.com             |
+| fuel.engineering  | available | $11.99    | —             | high           | low    | 4      | name.com             |
+| fuel.energy       | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Utilities Domain Names (506 TLDs)*. Version 2026-08-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Utilities Domain Names (506 TLDs)*. Version 2026-08-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
