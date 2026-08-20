@@ -16,7 +16,7 @@ This selection includes one-word utilities domain names spanning 506 different T
 
 **Public extract:** 1,000 rows · **Live catalog:** 77,240 domains · **Median ask:** $510.19 · **High-demand under $2,500:** 299
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/utilities`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| fuel.organic   | available | $19.99    | —             | high           | low    | 4      | name.com        |
-| gas.energy     | resell    | —         | —             | high           | low    | 3      | Porkbun LLC     |
-| fuel.green     | premium   | $625      | —             | high           | low    | 4      | name.com        |
-| wind.organic   | available | $19.99    | —             | high           | low    | 4      | name.com        |
-| fuel.cloud     | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
-| line.eco       | premium   | $9,375    | —             | high           | medium | 4      | name.com        |
-| cells.green    | available | $11.99    | —             | medium         | low    | 5      | name.com        |
-| fuel.energy    | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc. |
-| wind.green     | premium   | $650      | $650          | high           | low    | 4      | namecheap       |
-| cells.services | available | $15.99    | —             | medium         | low    | 5      | name.com        |
-| wind.solar     | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc. |
-| clean.agency   | premium   | $46.20    | $92.40        | high           | low    | 5      | namecheap       |
-| civil.energy   | available | $5.98     | $155.98       | low            | low    | 5      | namecheap       |
-| clean.ac       | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc. |
-| clean.autos    | premium   | $2,500    | —             | high           | low    | 5      | name.com        |
-| clean.adult    | available | $166.98   | —             | high           | low    | 5      | namecheap       |
-| clean.ai       | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc. |
-| clean.blog     | premium   | $640      | $0.99         | high           | low    | 5      | namesilo        |
-| clean.airforce | available | $103.99   | $103.99       | high           | low    | 5      | namesilo        |
-| clean.bond     | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| flow.giving       | available | $5.99     | —             | high           | medium | 4      | name.com        |
+| fuel.cloud        | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| green.page        | premium   | $623.75   | $623.75       | medium         | medium | 5      | name.com        |
+| cells.engineering | available | $11.99    | —             | medium         | low    | 5      | name.com        |
+| home.solar        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
+| tower.mobile      | premium   | $375      | —             | high           | low    | 5      | name.com        |
+| cells.gmbh        | available | $47.99    | —             | medium         | low    | 5      | name.com        |
+| clean.care        | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
+| driven.eco        | premium   | $9,375    | $113.99       | medium         | low    | 6      | name.com        |
+| cells.systems     | available | $21.99    | —             | medium         | low    | 5      | name.com        |
+| clean.city        | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
+| plants.eco        | premium   | $4,375    | —             | high           | low    | 6      | name.com        |
+| cells.technology  | available | $17.99    | —             | medium         | low    | 5      | name.com        |
+| clean.solar       | resell    | —         | —             | high           | low    | 5      | Virtualia LLC   |
+| plants.mobile     | premium   | $375      | —             | high           | low    | 6      | name.com        |
+| clean.organic     | available | $19.99    | —             | high           | low    | 5      | name.com        |
+| green.coffee      | resell    | —         | —             | high           | medium | 5      | Porkbun LLC     |
+| plants.mx         | premium   | $39.99    | $43.99        | high           | low    | 6      | namesilo        |
+| clean.ryukyu      | available | $22.98    | —             | high           | low    | 5      | namecheap       |
+| green.now         | resell    | —         | —             | medium         | medium | 5      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Utilities Domain Names (506 TLDs)*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Utilities Domain Names (506 TLDs)*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
