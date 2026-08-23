@@ -68,22 +68,22 @@ print(df.head())
 | water.bot         | resell    | $650      | $650          | high           | medium | 5      | GoDaddy.com LLC      |
 | fuel.garden       | premium   | $854      | $29.50        | high           | low    | 4      | namesilo             |
 | fuel.archi        | available | $24.99    | —             | high           | low    | 4      | name.com             |
-| gas.energy        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC          |
+| water.info        | resell    | $5,750    | $35.99        | high           | medium | 5      | GoDaddy.com, LLC     |
 | fuel.green        | premium   | $625      | —             | high           | low    | 4      | name.com             |
 | fuel.builders     | available | $7.99     | —             | high           | low    | 4      | name.com             |
-| fuel.co           | resell    | —         | —             | high           | low    | 4      | Hello Internet Corp. |
+| natural.cv        | resell    | $14.98    | —             | high           | low    | 7      | Porkbun              |
 | fuel.industries   | premium   | $242      | $242          | high           | low    | 4      | namesilo             |
 | fuel.cleaning     | available | $75.49    | $75.49        | high           | low    | 4      | namesilo             |
+| gas.energy        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC          |
+| fuel.ltda         | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo             |
+| fuel.construction | available | $15.99    | —             | high           | low    | 4      | name.com             |
+| fuel.co           | resell    | —         | —             | high           | low    | 4      | Hello Internet Corp. |
+| fuel.srl          | premium   | $54.28    | $30.68        | high           | low    | 4      | namesilo             |
+| fuel.contractors  | available | $9.99     | —             | high           | low    | 4      | name.com             |
 | fuel.company      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC     |
 | fuel.systems      | premium   | $500      | —             | high           | low    | 4      | name.com             |
-| fuel.construction | available | $15.99    | —             | high           | low    | 4      | name.com             |
-| fuel.energy       | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.      |
-| fuel.tech         | premium   | $1,562.50 | $6,250        | high           | low    | 4      | name.com             |
-| fuel.contractors  | available | $9.99     | —             | high           | low    | 4      | name.com             |
-| fuel.solutions    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC         |
-| line.eco          | premium   | $9,375    | —             | high           | medium | 4      | name.com             |
 | fuel.engineering  | available | $11.99    | —             | high           | low    | 4      | name.com             |
-| fuel.zone         | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.         |
+| fuel.energy       | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
