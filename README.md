@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| fuel.organic     | available | $19.99    | —             | high           | low    | 4      | name.com        |
-| gas.energy       | resell    | —         | —             | high           | low    | 3      | Porkbun LLC     |
-| fuel.green       | premium   | $625      | —             | high           | low    | 4      | name.com        |
-| pipe.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap       |
-| fuel.cloud       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
-| clean.autos      | premium   | $2,500    | —             | high           | low    | 5      | name.com        |
-| cells.green      | available | $11.99    | —             | medium         | low    | 5      | name.com        |
-| fuel.energy      | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc. |
-| clean.build      | premium   | $625      | —             | high           | low    | 5      | name.com        |
-| cells.industries | available | $17.49    | —             | medium         | low    | 5      | name.com        |
-| clean.ai         | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc. |
-| clean.dealer     | premium   | $2,170    | $2,800        | high           | low    | 5      | namecheap       |
-| cells.ltda       | available | $46.98    | —             | medium         | low    | 5      | namecheap       |
-| clean.business   | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
-| clean.inc        | premium   | $2,015    | $2,600        | high           | low    | 5      | namecheap       |
-| civil.energy     | available | $5.98     | $155.98       | low            | low    | 5      | namecheap       |
-| clean.care       | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
-| clean.limited    | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo        |
-| clean.auto       | available | $1,999.99 | $2,199        | high           | low    | 5      | namesilo        |
-| clean.city       | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| fuel.organic      | available | $19.99    | —             | high           | low    | 4      | name.com        |
+| gas.energy        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC     |
+| fuel.green        | premium   | $625      | —             | high           | low    | 4      | name.com        |
+| cells.builders    | available | $7.99     | —             | medium         | low    | 5      | name.com        |
+| fuel.cloud        | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| wind.green        | premium   | $650      | $650          | high           | low    | 4      | namecheap       |
+| cells.contractors | available | $9.99     | —             | medium         | low    | 5      | name.com        |
+| fuel.energy       | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc. |
+| clean.agency      | premium   | $46.20    | $92.40        | high           | low    | 5      | namecheap       |
+| cells.green       | available | $11.99    | —             | medium         | low    | 5      | name.com        |
+| clean.ac          | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc. |
+| clean.autos       | premium   | $2,500    | —             | high           | low    | 5      | name.com        |
+| civil.energy      | available | $5.98     | $155.98       | low            | low    | 5      | namecheap       |
+| clean.ai          | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc. |
+| clean.blog        | premium   | $640      | $0.99         | high           | low    | 5      | namesilo        |
+| clean.airforce    | available | $103.99   | $103.99       | high           | low    | 5      | namesilo        |
+| clean.bot         | resell    | —         | —             | high           | low    | 5      | Dynadot, LLC    |
+| clean.build       | premium   | $625      | —             | high           | low    | 5      | name.com        |
+| clean.army        | available | $19.99    | —             | high           | low    | 5      | name.com        |
+| clean.business    | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
