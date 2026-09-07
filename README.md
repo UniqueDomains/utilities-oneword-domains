@@ -16,7 +16,7 @@ This selection includes one-word utilities domain names spanning 506 different T
 
 **Public extract:** 1,000 rows · **Live catalog:** 79,749 domains · **Median ask:** $498.73 · **High-demand under $2,500:** 298
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/sector/utilities`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| fuel.organic      | available | $19.99    | —             | high           | low    | 4      | name.com        |
-| gas.energy        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC     |
-| fuel.green        | premium   | $625      | —             | high           | low    | 4      | name.com        |
-| cells.builders    | available | $7.99     | —             | medium         | low    | 5      | name.com        |
-| fuel.cloud        | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
-| wind.green        | premium   | $650      | $650          | high           | low    | 4      | namecheap       |
-| cells.contractors | available | $9.99     | —             | medium         | low    | 5      | name.com        |
-| fuel.energy       | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc. |
-| clean.agency      | premium   | $46.20    | $92.40        | high           | low    | 5      | namecheap       |
-| cells.green       | available | $11.99    | —             | medium         | low    | 5      | name.com        |
-| clean.ac          | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc. |
-| clean.autos       | premium   | $2,500    | —             | high           | low    | 5      | name.com        |
-| civil.energy      | available | $5.98     | $155.98       | low            | low    | 5      | namecheap       |
-| clean.ai          | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc. |
-| clean.blog        | premium   | $640      | $0.99         | high           | low    | 5      | namesilo        |
-| clean.airforce    | available | $103.99   | $103.99       | high           | low    | 5      | namesilo        |
-| clean.bot         | resell    | —         | —             | high           | low    | 5      | Dynadot, LLC    |
-| clean.build       | premium   | $625      | —             | high           | low    | 5      | name.com        |
-| clean.army        | available | $19.99    | —             | high           | low    | 5      | name.com        |
-| clean.business    | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| cells.car      | available | $2,400    | —             | medium         | low    | 5      | namecheap       |
+| fuel.cloud     | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| green.page     | premium   | $638.72   | $638.72       | medium         | medium | 5      | namesilo        |
+| cells.dentist  | available | $76.99    | —             | medium         | low    | 5      | name.com        |
+| home.solar     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
+| energy.parts   | premium   | $78.54    | $78.54        | medium         | medium | 6      | namesilo        |
+| cells.holdings | available | $80.99    | —             | medium         | low    | 5      | name.com        |
+| clean.city     | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
+| plants.eco     | premium   | $4,375    | —             | high           | low    | 6      | name.com        |
+| cells.systems  | available | $21.99    | —             | medium         | low    | 5      | name.com        |
+| clean.solar    | resell    | —         | —             | high           | low    | 5      | Virtualia LLC   |
+| plants.fyi     | premium   | $17.70    | $17.70        | high           | low    | 6      | namesilo        |
+| civil.solar    | available | $9.99     | $83.99        | low            | low    | 5      | name.com        |
+| green.coffee   | resell    | —         | —             | high           | medium | 5      | Porkbun LLC     |
+| plants.mobile  | premium   | $375      | —             | high           | low    | 6      | name.com        |
+| clean.ryukyu   | available | $22.98    | —             | high           | low    | 5      | namecheap       |
+| green.now      | resell    | —         | —             | medium         | medium | 5      | Spaceship, Inc. |
+| plants.mx      | premium   | $39.99    | $43.99        | high           | low    | 6      | namesilo        |
+| smart.ryukyu   | available | $22.98    | —             | high           | medium | 5      | namecheap       |
+| green.trading  | resell    | —         | —             | medium         | medium | 5      | Dynadot Inc     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Utilities Domain Names (506 TLDs)*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Utilities Domain Names (506 TLDs)*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
