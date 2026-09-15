@@ -1,10 +1,10 @@
-# One-Word Utilities Domain Names (506 TLDs) (83,639)
+# One-Word Utilities Domain Names (506 TLDs) (83,661)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-83%2C639%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-83%2C661%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes one-word utilities domain names spanning 506 different TLDs, with a median ask near $568. Updated daily, it covers a broad range of extensions beyond .com, useful for comparing pricing and renewal costs before choosing a domain to own.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **83,639 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **83,661 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 83,639 domains · **Median ask:** $482.89 · **High-demand under $2,500:** 322
+**Public extract:** 1,000 rows · **Live catalog:** 83,661 domains · **Median ask:** $482.72 · **High-demand under $2,500:** 322
 
 **Last updated:** 2026-09-14
 **Canonical page:** `https://unique.domains/domains/sector/utilities`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| gas.organic       | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| gas.energy        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                                  |
-| fuel.consulting   | premium   | $140      | $280          | high           | low    | 4      | namecheap                                    |
-| fuel.archi        | available | $24.99    | —             | high           | low    | 4      | name.com                                     |
-| fuel.autos        | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| fuel.dealer       | premium   | $2,170    | $2,800        | high           | low    | 4      | namecheap                                    |
-| fuel.auto         | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo                                     |
-| fuel.co           | resell    | —         | —             | high           | low    | 4      | Hello Internet Corp.                         |
-| fuel.garden       | premium   | $854      | $29.50        | high           | low    | 4      | namesilo                                     |
-| fuel.builders     | available | $7.99     | —             | high           | low    | 4      | name.com                                     |
-| fuel.company      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                             |
-| fuel.green        | premium   | $625      | —             | high           | low    | 4      | name.com                                     |
-| fuel.car          | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo                                     |
-| fuel.energy       | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                              |
-| fuel.industries   | premium   | $242      | $242          | high           | low    | 4      | namesilo                                     |
-| fuel.cleaning     | available | $75.49    | $75.49        | high           | low    | 4      | namesilo                                     |
-| fuel.pro          | resell    | —         | —             | high           | low    | 4      | GoDaddy Online Services Cayman Islands Ltd.  |
-| fuel.ltda         | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo                                     |
-| fuel.construction | available | $15.99    | —             | high           | low    | 4      | name.com                                     |
-| fuel.solutions    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                 |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| line.fishing      | available | $32.49    | $32.49        | medium         | medium | 4      | namesilo        |
+| fuel.cloud        | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| green.archi       | premium   | $640      | $640          | medium         | medium | 5      | namesilo        |
+| cells.engineering | available | $11.99    | —             | medium         | low    | 5      | name.com        |
+| home.solar        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
+| green.page        | premium   | $638.72   | $638.72       | medium         | medium | 5      | namesilo        |
+| cells.systems     | available | $21.99    | —             | medium         | low    | 5      | name.com        |
+| clean.care        | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
+| solar.host        | premium   | $3,250    | $6,500        | medium         | high   | 5      | namecheap       |
+| clean.organic     | available | $19.99    | —             | high           | low    | 5      | name.com        |
+| clean.city        | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
+| solar.press       | premium   | $1,950    | $3,900        | medium         | high   | 5      | namecheap       |
+| clean.ryukyu      | available | $22.98    | —             | high           | low    | 5      | namecheap       |
+| clean.solar       | resell    | —         | —             | high           | low    | 5      | Virtualia LLC   |
+| solar.sucks       | premium   | $2,658.67 | $2,658.67     | medium         | high   | 5      | namesilo        |
+| smart.ryukyu      | available | $22.98    | —             | high           | medium | 5      | namecheap       |
+| green.coffee      | resell    | —         | —             | high           | medium | 5      | Porkbun LLC     |
+| driven.eco        | premium   | $9,375    | $113.99       | medium         | low    | 6      | name.com        |
+| solar.car         | available | $1,999.99 | $2,199        | medium         | high   | 5      | namesilo        |
+| green.now         | resell    | —         | —             | medium         | medium | 5      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 83,639 live domains                        |
+| 1,000-row public sample | 83,661 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 322 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
