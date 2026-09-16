@@ -1,10 +1,10 @@
-# One-Word Utilities Domain Names (506 TLDs) (83,661)
+# One-Word Utilities Domain Names (506 TLDs) (39,336)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-83%2C661%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-39%2C336%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes one-word utilities domain names spanning 506 different TLDs, with a median ask near $568. Updated daily, it covers a broad range of extensions beyond .com, useful for comparing pricing and renewal costs before choosing a domain to own.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **83,661 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **39,336 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 83,661 domains · **Median ask:** $482.72 · **High-demand under $2,500:** 322
+**Public extract:** 1,000 rows · **Live catalog:** 39,336 domains · **Median ask:** $529.57 · **High-demand under $2,500:** 156
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/sector/utilities`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | line.fishing      | available | $32.49    | $32.49        | medium         | medium | 4      | namesilo        |
-| fuel.cloud        | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
-| green.archi       | premium   | $640      | $640          | medium         | medium | 5      | namesilo        |
-| cells.engineering | available | $11.99    | —             | medium         | low    | 5      | name.com        |
-| home.solar        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
-| green.page        | premium   | $638.72   | $638.72       | medium         | medium | 5      | namesilo        |
-| cells.systems     | available | $21.99    | —             | medium         | low    | 5      | name.com        |
-| clean.care        | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
-| solar.host        | premium   | $3,250    | $6,500        | medium         | high   | 5      | namecheap       |
-| clean.organic     | available | $19.99    | —             | high           | low    | 5      | name.com        |
-| clean.city        | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
-| solar.press       | premium   | $1,950    | $3,900        | medium         | high   | 5      | namecheap       |
-| clean.ryukyu      | available | $22.98    | —             | high           | low    | 5      | namecheap       |
-| clean.solar       | resell    | —         | —             | high           | low    | 5      | Virtualia LLC   |
-| solar.sucks       | premium   | $2,658.67 | $2,658.67     | medium         | high   | 5      | namesilo        |
-| smart.ryukyu      | available | $22.98    | —             | high           | medium | 5      | namecheap       |
-| green.coffee      | resell    | —         | —             | high           | medium | 5      | Porkbun LLC     |
-| driven.eco        | premium   | $9,375    | $113.99       | medium         | low    | 6      | name.com        |
-| solar.car         | available | $1,999.99 | $2,199        | medium         | high   | 5      | namesilo        |
+| data.tools        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
+| bill.creditcard   | premium   | $242      | $242          | medium         | low    | 4      | namesilo        |
+| pipe.ryukyu       | available | $22.98    | —             | high           | low    | 4      | namecheap       |
 | green.now         | resell    | —         | —             | medium         | medium | 5      | Spaceship, Inc. |
+| power.autos       | premium   | $845      | $15.73        | high           | medium | 5      | namecheap       |
+| clean.ryukyu      | available | $22.98    | —             | high           | low    | 5      | namecheap       |
+| smart.training    | resell    | —         | —             | high           | medium | 5      | Porkbun LLC     |
+| power.industries  | premium   | $42.90    | $42.90        | high           | medium | 5      | namecheap       |
+| smart.ryukyu      | available | $22.98    | —             | high           | medium | 5      | namecheap       |
+| solar.art         | resell    | —         | —             | medium         | high   | 5      | Spaceship, Inc. |
+| power.motorcycles | premium   | $845      | $15.73        | high           | medium | 5      | namecheap       |
+| solar.car         | available | $1,999.99 | $2,199        | medium         | high   | 5      | namesilo        |
+| solar.blue        | resell    | —         | —             | medium         | high   | 5      | Sav.com, LLC    |
+| solar.press       | premium   | $1,950    | $3,900        | medium         | high   | 5      | namecheap       |
+| solar.protection  | available | $1,999.99 | $2,049.99     | medium         | high   | 5      | namesilo        |
+| solar.clothing    | resell    | —         | —             | medium         | high   | 5      | Dynadot Inc     |
+| energy.parts      | premium   | $78.54    | $78.54        | medium         | medium | 6      | namesilo        |
+| solar.storage     | available | $509.99   | $529.99       | medium         | high   | 5      | namesilo        |
+| solar.club        | resell    | —         | —             | medium         | high   | 5      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 83,661 live domains                        |
+| 1,000-row public sample | 39,336 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 322 high-demand names under $2,500         |
+| Basic exported fields   | 156 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Utilities Domain Names (506 TLDs)*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Utilities Domain Names (506 TLDs)*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
