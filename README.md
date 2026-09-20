@@ -1,10 +1,10 @@
-# One-Word Utilities Domain Names (506 TLDs) (40,155)
+# One-Word Utilities Domain Names (506 TLDs) (40,713)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-40%2C155%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-40%2C713%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes one-word utilities domain names spanning 506 different TLDs, with a median ask near $568. Updated daily, it covers a broad range of extensions beyond .com, useful for comparing pricing and renewal costs before choosing a domain to own.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **40,155 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **40,713 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 40,155 domains · **Median ask:** $520.44 · **High-demand under $2,500:** 147
+**Public extract:** 1,000 rows · **Live catalog:** 40,713 domains · **Median ask:** $420.96 · **High-demand under $2,500:** 139
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/sector/utilities`
 **Best for:** founders, investors, studios
 
@@ -74,16 +74,16 @@ print(df.head())
 | energy.foundation | resell    | $260      | $260          | high           | medium | 6      | Porkbun LLC                                  |
 | power.band        | premium   | $512      | $512          | medium         | medium | 5      | namesilo                                     |
 | power.bayern      | available | $34.99    | $34.99        | medium         | medium | 5      | namesilo                                     |
-| fuel.cloud        | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                              |
+| power.baby        | resell    | —         | —             | medium         | medium | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
 | power.beauty      | premium   | $832      | $832          | medium         | medium | 5      | namesilo                                     |
 | power.car         | available | $1,999.99 | $2,199        | medium         | medium | 5      | namesilo                                     |
-| clean.care        | resell    | —         | —             | high           | low    | 5      | Porkbun LLC                                  |
+| power.bid         | resell    | —         | —             | medium         | medium | 5      | Dynadot Inc                                  |
 | power.berlin      | premium   | $794.30   | $794.30       | medium         | medium | 5      | namecheap                                    |
 | power.cars        | available | $1,999.99 | $2,199        | medium         | medium | 5      | namesilo                                     |
-| clean.city        | resell    | —         | —             | high           | low    | 5      | Porkbun LLC                                  |
+| power.bike        | resell    | —         | —             | high           | low    | 5      | Porkbun LLC                                  |
 | power.best        | premium   | $594.16   | $594.16       | medium         | medium | 5      | namesilo                                     |
 | power.country     | available | $2,298    | $2,450        | medium         | medium | 5      | namecheap                                    |
-| power.baby        | resell    | —         | —             | medium         | medium | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
+| power.blue        | resell    | —         | —             | medium         | medium | 5      | Spaceship, Inc.                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 40,155 live domains                        |
+| 1,000-row public sample | 40,713 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 147 high-demand names under $2,500         |
+| Basic exported fields   | 139 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Utilities Domain Names (506 TLDs)*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Utilities Domain Names (506 TLDs)*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
