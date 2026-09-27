@@ -336,7 +336,6 @@ dd0a78d0-bd52-4dd7-ae32-0066b67cbe7d,power.ac,available,,,high,medium,5,,,,
 4a6f9dfa-a140-461d-b2a5-58f859e3a48b,utility.archi,available,14.98,132.98,high,low,7,namecheap,,,19/09/2026 06:04
 f0849f90-fb51-4a80-b3ce-37dd4b9c3292,utility.recipes,available,8.99,77.99,high,low,7,namesilo,,,19/09/2026 06:04
 87a4e02c-49f8-4815-9ec3-0967c75f10cb,power.protection,available,1999.99,2049.99,high,medium,5,namesilo,,,08/09/2026 07:25
-9883bbe8-10ac-4e17-bb80-11710df43510,power.ninja,available,,,high,medium,5,,,,
 89c1bf55-f8a7-4ea0-b64a-3a4a086e840b,utility.skin,available,1.99,17.29,high,low,7,namesilo,,,19/09/2026 06:04
 180e5c76-c000-4ed0-8470-f97168ca68eb,power.meme,premium,1690,1690,high,medium,5,namecheap,,,08/09/2026 07:25
 cf39c402-6361-4e8e-95ff-cf28ea85895f,utility.tennis,available,65.99,65.99,high,low,7,namesilo,,,19/09/2026 06:04
@@ -383,9 +382,7 @@ f473679f-56a0-4680-90ab-db1d3c4b4faf,power.diy,premium,1820,2600,high,medium,5,n
 74ce764a-433d-48d4-8171-dad733e795cd,utility.im,available,,,high,low,7,,,,
 1a8ac8b0-8e60-4c3f-bb48-121c55542adb,utility.sale,available,5.98,48.98,high,low,7,namecheap,,,19/09/2026 06:04
 8231b97b-ddd9-48de-9a6e-da3322d57d33,power.online,premium,1562.5,6250,high,medium,5,name.com,,,
-8c3f9304-ee6b-42d4-9f69-22354ec1914f,energy.engineer,available,,,high,medium,6,,,,
 f8d4edf5-e9aa-4496-8c40-5c2c468be52d,utility.photo,available,29.99,29.99,high,low,7,namesilo,,,19/09/2026 06:04
-260beead-81d0-4eb0-955a-fe2949acc943,power.expert,available,,,high,medium,5,,,,
 ce4e75c0-f3a1-46e5-a5e7-b3f718ca381b,utility.deal,available,38.99,38.99,high,low,7,namesilo,,,19/09/2026 06:04
 8aee038b-2a9b-4acd-9a71-f9b1cda3d980,power.sbs,premium,384,768,high,medium,5,namesilo,,,08/09/2026 07:25
 fdeefc15-b40f-4048-9f3b-f7ce272bd6f3,utility.express,available,12.49,39.99,high,low,7,namesilo,,,19/09/2026 06:04
@@ -502,7 +499,6 @@ a119295b-94ce-4711-aab5-fe24282af0b4,energy.cricket,available,23.59,23.59,high,m
 e68b9b2f-757f-4a87-a860-fc2581fe801f,utility.shiksha,available,14.99,51.99,high,low,7,namesilo,,,19/09/2026 06:04
 b39e4cc8-cf3b-413a-9258-817944a10eb6,power.mov,premium,1298.7,1298.7,high,medium,5,namecheap,,,08/09/2026 07:25
 217c32a2-eacd-49de-b7dd-2630202f7c45,utility.coach,available,17.99,77.99,high,low,7,namesilo,,,19/09/2026 06:04
-5542a7b9-139a-4196-8cec-16677944a043,power.fitness,premium,260,260,high,medium,5,namecheap,,,
 e4ea21a4-3f5c-48e8-88c1-6eaf73dbf2e4,energy.broker,premium,6500,6500,high,medium,6,namecheap,,,04/09/2026 13:30
 b4f14cd2-50f6-469b-a4a7-ca0d560093d5,power.mortgage,available,,,high,medium,5,,,,
 a13a761a-dcee-49df-bed0-52ed651feed2,utility.prof,premium,115.7,115.7,high,low,7,namecheap,,,19/09/2026 06:04
@@ -787,7 +783,7 @@ e732fb52-5809-4fcf-91a6-10e5573a0c41,energy.mobile,premium,1300,1300,high,medium
 00d740ed-04a4-439e-a971-39f67caa02e6,power.hiphop,available,23.99,23.99,high,medium,5,namesilo,,,08/09/2026 07:25
 5c09ff13-7a1e-4b5a-a2a8-91d4a31529df,energy.estate,available,15.99,38.99,high,medium,6,namesilo,,,25/09/2026 09:44
 40428c35-cbee-4239-8fb0-f50f00477dc5,power.properties,available,,,high,medium,5,,,,
-313b947c-0f09-48c0-9db5-1bf28a126125,electricity.band,available,29.99,,high,low,11,name.com,,,
+313b947c-0f09-48c0-9db5-1bf28a126125,electricity.band,available,20.99,31.49,high,low,11,namesilo,,,27/09/2026 06:58
 1fca3706-8090-4d43-a8b3-e8e83f4a70f4,power.fishing,premium,96,29.5,high,medium,5,namesilo,,,08/09/2026 07:25
 451d3224-b82b-472e-90da-e1efc037d42c,electric.solar,resell,,,high,low,8,"GoDaddy.com, LLC",25/09/2014 00:59,25/09/2027 00:59,26/09/2026 05:47
 cdef28bd-7dc4-4b7e-91ce-3dff191af2e9,energy.press,premium,650,1300,high,medium,6,namecheap,,,04/09/2026 13:30
@@ -823,7 +819,7 @@ f0d3a4d4-a8a1-4310-8e52-8638bfcdbd5c,power.catering,available,,,high,medium,5,,,
 b0e130a6-788f-426f-a224-7fea6d706df2,energy.courses,premium,640,640,high,medium,6,namesilo,,,04/09/2026 13:30
 dd0da26b-c627-4242-90c4-9f74f4430b96,power.football,available,,,high,medium,5,,,,
 2d703fb6-0d5f-4abf-905a-0eea2cc4cbb9,electricity.review,premium,130,32.5,high,low,11,namecheap,,,
-749a70db-55bc-4d2c-91af-209025d1bc27,electricity.actor,available,19.99,,high,low,11,name.com,,,
+749a70db-55bc-4d2c-91af-209025d1bc27,electricity.actor,available,16.99,44.49,high,low,11,namesilo,,,27/09/2026 06:58
 f394cdca-89ff-4459-8bba-0619369b9752,electricity.repair,available,9.99,,high,low,11,name.com,,,
 0d36a808-d4db-4f10-94f2-f1e9b7ed5d7e,energy.sbs,premium,384,768,high,medium,6,namesilo,,,04/09/2026 13:30
 91314ffc-a445-46ee-ad0a-069cc04299ec,energy.college,premium,640,640,high,medium,6,namesilo,,,04/09/2026 13:30
@@ -999,3 +995,7 @@ c4660517-e5a7-4b4d-bed4-87e29b0ca9d4,electricity.inc,premium,2015,2600,high,low,
 fac0970f-5377-4c88-bc4a-c5d0710dafed,electricity.vodka,available,43.98,,high,low,11,namecheap,,,
 c5dea10b-fc26-4592-b608-c3db1be1f69c,water.rip,available,7.99,,high,medium,5,name.com,,,
 d54111b3-0b5e-45b1-b487-584d7de66200,electricity.fun,premium,1625,6500,high,low,11,namecheap,,,
+ef302639-b095-4a5c-90ff-16f1370e0ca6,water.xxx,premium,322.4,322.4,high,medium,5,namecheap,,,08/09/2026 13:05
+4789b631-6a7c-459d-b93b-dde5e719da53,water.lol,premium,832,832,high,medium,5,namesilo,,,08/09/2026 13:05
+2823291b-2343-45f7-b10c-5496692e3fb9,power.mom,premium,832,832,high,medium,5,namesilo,,,08/09/2026 07:25
+2a1ee027-cda6-4b43-8bbd-0bf31170fe4d,electricity.irish,available,9.99,,high,low,11,name.com,,,
