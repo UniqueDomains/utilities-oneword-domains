@@ -1,10 +1,10 @@
-# One-Word Utilities Domain Names (506 TLDs) (66,740)
+# One-Word Utilities Domain Names (506 TLDs) (68,831)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-66%2C740%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-68%2C831%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes one-word utilities domain names spanning 506 different TLDs, with a median ask near $568. Updated daily, it covers a broad range of extensions beyond .com, useful for comparing pricing and renewal costs before choosing a domain to own.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **66,740 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **68,831 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 66,740 domains · **Median ask:** $327.82 · **High-demand under $2,500:** 80
+**Public extract:** 1,000 rows · **Live catalog:** 68,831 domains · **Median ask:** $320.84 · **High-demand under $2,500:** 73
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/utilities`
@@ -25,7 +25,7 @@ This selection includes one-word utilities domain names spanning 506 different T
 <p align="center">
   <a href="https://unique.domains/domains/sector/utilities?utm_source=github&utm_medium=referral&utm_campaign=repo_utilities_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./utilities.csv">CSV</a> / <a href="./utilities.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_utilities_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_utilities_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_utilities_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -65,24 +65,24 @@ print(df.head())
 | domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
 | --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | power.diet      | available | $104.99    | $114.99       | high           | medium | 5      | namesilo         |
-| gas.organic     | available | $17        | $85.99        | high           | low    | 3      | unstoppable      |
+| grid.management | available | $26.98     | $34.98        | high           | medium | 4      | namecheap        |
 | power.bz        | resell    | $25        | —             | high           | medium | 5      | Porkbun LLC      |
-| grid.forum      | premium   | $325       | $325          | high           | medium | 4      | namecheap        |
-| grid.archi      | available | $14.98     | $132.98       | high           | medium | 4      | namecheap        |
+| grid.website    | premium   | $650       | $1,300        | high           | medium | 4      | namecheap        |
+| grid.reisen     | available | $21.98     | $28.98        | high           | medium | 4      | namecheap        |
 | power.charity   | resell    | $5.99      | —             | high           | medium | 5      | Porkbun LLC      |
-| grid.nexus      | premium   | $323.70    | $323.70       | high           | medium | 4      | namecheap        |
-| power.audio     | available | $104.99    | $114.99       | high           | medium | 5      | namesilo         |
-| water.info      | resell    | $5,750     | $35.99        | high           | medium | 5      | GoDaddy.com, LLC |
 | power.attorney  | premium   | $1,107     | $1,107        | high           | medium | 5      | namesilo         |
+| power.audio     | available | $104.99    | $114.99       | high           | medium | 5      | namesilo         |
+| energy.gallery  | resell    | $85.80     | $85.80        | high           | medium | 6      | Porkbun LLC      |
+| power.autos     | premium   | $845       | $15.73        | high           | medium | 5      | namecheap        |
 | power.auto      | available | $1,999.99  | $2,199        | high           | medium | 5      | namesilo         |
 | energy.luxe     | resell    | $37,060.64 | —             | high           | medium | 6      | Dynadot Inc      |
-| power.autos     | premium   | $845       | $15.73        | high           | medium | 5      | namecheap        |
+| power.band      | premium   | $512       | $512          | high           | medium | 5      | namesilo         |
 | power.barcelona | available | $38.98     | $38.98        | high           | medium | 5      | namecheap        |
 | energy.me       | resell    | $5,750     | $27.99        | high           | medium | 6      | GoDaddy.com, LLC |
-| power.band      | premium   | $512       | $512          | high           | medium | 5      | namesilo         |
+| power.beauty    | premium   | $832       | $832          | high           | medium | 5      | namesilo         |
 | power.bayern    | available | $34.99     | $34.99        | high           | medium | 5      | namesilo         |
 | energy.town     | resell    | $42.90     | $42.90        | high           | medium | 6      | Porkbun LLC      |
-| power.beauty    | premium   | $832       | $832          | high           | medium | 5      | namesilo         |
+| power.berlin    | premium   | $794.30    | $794.30       | high           | medium | 5      | namecheap        |
 | power.car       | available | $1,999.99  | $2,199        | high           | medium | 5      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 66,740 live domains                                  |
+| 1,000-row public sample | 68,831 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 80 high-demand names under $2,500                    |
+| Basic exported fields   | 73 high-demand names under $2,500                    |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/utilities?utm_source=github&utm_medium=referral&utm_campaign=repo_utilities_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_utilities_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_utilities_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_utilities_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_utilities_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
