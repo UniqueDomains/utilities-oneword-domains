@@ -1,10 +1,10 @@
-# One-Word Utilities Domain Names (506 TLDs) (82,398)
+# One-Word Utilities Domain Names (506 TLDs) (82,741)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-82%2C398%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-82%2C741%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes one-word utilities domain names spanning 506 different TLDs, with a median ask near $568. Updated daily, it covers a broad range of extensions beyond .com, useful for comparing pricing and renewal costs before choosing a domain to own.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **82,398 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **82,741 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 82,398 domains · **Median ask:** $280.97 · **High-demand under $2,500:** 64
+**Public extract:** 1,000 rows · **Live catalog:** 82,741 domains · **Median ask:** $280.97 · **High-demand under $2,500:** 63
 
-**Last updated:** 2026-10-20
+**Last updated:** 2026-10-21
 **Canonical page:** `https://unique.domains/domains/sector/utilities`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| gas.dating     | available | $20.99     | $64.99        | high           | low    | 3      | namesilo         |
-| power.bz       | resell    | $25        | —             | high           | medium | 5      | Porkbun LLC      |
-| gas.ooo        | premium   | $7,102.86  | $119.99       | high           | low    | 3      | namesilo         |
-| gas.immobilien | available | $30.22     | $30.22        | high           | low    | 3      | spaceship        |
-| power.charity  | resell    | $5.99      | —             | high           | medium | 5      | Porkbun LLC      |
-| grid.best      | premium   | $103.44    | $103.44       | high           | medium | 4      | namecheap        |
-| gas.reise      | available | $77.83     | $77.83        | high           | low    | 3      | spaceship        |
-| power.systems  | resell    | $512       | $512          | high           | medium | 5      | GoDaddy.com, LLC |
-| grid.buzz      | premium   | $520       | $130          | high           | medium | 4      | namecheap        |
-| gas.singles    | available | $3.98      | $36.98        | high           | low    | 3      | namecheap        |
-| water.bot      | resell    | $650       | $650          | high           | medium | 5      | GoDaddy.com LLC  |
-| grid.garden    | premium   | $1,040     | $32.50        | high           | medium | 4      | namecheap        |
-| grid.cars      | available | $2,070     | $2,950        | high           | medium | 4      | namecheap        |
-| energy.berlin  | resell    | $6,371.43  | $75.99        | high           | medium | 6      | name.com         |
-| grid.how       | premium   | $244.40    | $244.40       | high           | medium | 4      | namecheap        |
-| grid.cheap     | available | $5.98      | $49.98        | high           | medium | 4      | namecheap        |
-| energy.gallery | resell    | $85.80     | $85.80        | high           | medium | 6      | Porkbun LLC      |
-| grid.icu       | premium   | $390       | $780          | high           | medium | 4      | namecheap        |
-| grid.clothing  | available | $31.98     | $35.68        | high           | medium | 4      | namecheap        |
-| energy.luxe    | resell    | $37,060.64 | —             | high           | medium | 6      | Dynadot Inc      |
+| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| grid.cleaning   | available | $79.98     | $94.98        | high           | medium | 4      | namecheap        |
+| power.bz        | resell    | $25        | —             | high           | medium | 5      | Porkbun LLC      |
+| power.attorney  | premium   | $1,107     | $1,107        | high           | medium | 5      | namesilo         |
+| grid.vana       | available | $2,298     | $2,498        | high           | medium | 4      | namecheap        |
+| power.charity   | resell    | $5.99      | —             | high           | medium | 5      | Porkbun LLC      |
+| power.band      | premium   | $414.20    | $414.20       | high           | medium | 5      | spaceship        |
+| power.audio     | available | $108.98    | $159.98       | high           | medium | 5      | namecheap        |
+| power.systems   | resell    | $512       | $512          | high           | medium | 5      | GoDaddy.com, LLC |
+| power.beauty    | premium   | $845       | $845          | high           | medium | 5      | namecheap        |
+| power.auto      | available | $2,070     | $2,950        | high           | medium | 5      | namecheap        |
+| energy.berlin   | resell    | $6,371.43  | $75.99        | high           | medium | 6      | name.com         |
+| power.best      | premium   | $574.11    | $574.11       | high           | medium | 5      | namesilo         |
+| power.barcelona | available | $38.98     | $38.98        | high           | medium | 5      | namecheap        |
+| energy.gallery  | resell    | $85.80     | $85.80        | high           | medium | 6      | Porkbun LLC      |
+| power.blog      | premium   | $2,587.70  | $10,350.20    | high           | medium | 5      | spaceship        |
+| power.bayern    | available | $34.99     | $34.99        | high           | medium | 5      | namesilo         |
+| energy.luxe     | resell    | $37,060.64 | —             | high           | medium | 6      | Dynadot Inc      |
+| power.boo       | premium   | $516.67    | $516.67       | high           | medium | 5      | spaceship        |
+| power.car       | available | $1,999.99  | $2,199        | high           | medium | 5      | namesilo         |
+| energy.me       | resell    | $5,750     | $27.99        | high           | medium | 6      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 82,398 live domains                                  |
+| 1,000-row public sample | 82,741 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 64 high-demand names under $2,500                    |
+| Basic exported fields   | 63 high-demand names under $2,500                    |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Utilities Domain Names (506 TLDs)*. Version 2026-10-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Utilities Domain Names (506 TLDs)*. Version 2026-10-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
