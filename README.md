@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| grid.archi       | available | $18.50     | $132.98       | high           | high   | 4      | unstoppable      |
-| power.bz         | resell    | $25        | —             | high           | high   | 5      | Porkbun LLC      |
-| grid.fans        | premium   | $26.08     | $51.95        | high           | high   | 4      | spaceship        |
-| grid.futbol      | available | $7.49      | $7.49         | high           | high   | 4      | namesilo         |
-| power.charity    | resell    | $5.99      | —             | high           | high   | 5      | Porkbun LLC      |
-| grid.foo         | premium   | $323.70    | $323.70       | high           | high   | 4      | namecheap        |
-| grid.insure      | available | $58.16     | $58.16        | high           | high   | 4      | spaceship        |
-| power.systems    | resell    | $512       | $512          | high           | high   | 5      | GoDaddy.com, LLC |
-| grid.forum       | premium   | $258.95    | $258.95       | high           | high   | 4      | spaceship        |
-| grid.movie       | available | $37.67     | $321.22       | high           | high   | 4      | dynadot          |
-| water.info       | resell    | $5,750     | $35.99        | high           | medium | 5      | GoDaddy.com, LLC |
-| grid.lifestyle   | premium   | $1,107     | $1,107        | high           | high   | 4      | namesilo         |
-| grid.photography | available | $13.50     | $46.48        | high           | high   | 4      | unstoppable      |
-| energy.gallery   | resell    | $85.80     | $85.80        | high           | medium | 6      | Porkbun LLC      |
-| grid.meme        | premium   | $362.45    | $362.45       | high           | high   | 4      | spaceship        |
-| grid.surgery     | available | $43.67     | $43.67        | high           | high   | 4      | spaceship        |
-| energy.luxe      | resell    | $37,060.64 | —             | high           | medium | 6      | Dynadot Inc      |
-| grid.nexus       | premium   | $257.92    | $257.92       | high           | high   | 4      | spaceship        |
-| grid.viajes      | available | $99.99     | $99.99        | high           | high   | 4      | namesilo         |
-| energy.me        | resell    | $5,750     | $27.99        | high           | medium | 6      | GoDaddy.com, LLC |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
+| grid.adult       | available | $95.20    | $95.20        | high           | high   | 4      | cloudflare                                         |
+| power.bz         | resell    | $25       | —             | high           | high   | 5      | Porkbun LLC                                        |
+| grid.eco         | premium   | $7,762.70 | $59.71        | high           | high   | 4      | spaceship                                          |
+| grid.clinic      | available | $20.99    | $64.99        | high           | high   | 4      | namesilo                                           |
+| power.charity    | resell    | $5.99     | —             | high           | high   | 5      | Porkbun LLC                                        |
+| grid.esq         | premium   | $340.72   | $340.72       | high           | high   | 4      | spaceship                                          |
+| grid.degree      | available | $41.60    | $41.60        | high           | high   | 4      | spaceship                                          |
+| power.systems    | resell    | $512      | $512          | high           | high   | 5      | GoDaddy.com, LLC                                   |
+| grid.food        | premium   | $1,107    | $1,107        | high           | high   | 4      | namesilo                                           |
+| grid.dental      | available | $78.99    | $78.99        | high           | high   | 4      | namesilo                                           |
+| energy.berlin    | resell    | $6,371.43 | $75.99        | high           | medium | 6      | name.com                                           |
+| grid.free        | premium   | $1,035.20 | $1,035.20     | high           | high   | 4      | spaceship                                          |
+| grid.flowers     | available | $93.35    | $103.40       | high           | high   | 4      | spaceship                                          |
+| electricity.love | resell    | $9.99     | $28.99        | high           | low    | 11     | Chengdu West Dimension Digital Technology Co., LTD |
+| grid.ing         | premium   | $672.95   | $672.95       | high           | high   | 4      | spaceship                                          |
+| grid.forex       | available | $10.81    | $92.17        | high           | high   | 4      | porkbun                                            |
+| electricity.team | resell    | $46.48    | —             | high           | low    | 11     | NameCheap, Inc.                                    |
+| grid.press       | premium   | $975      | $1,950        | high           | high   | 4      | namecheap                                          |
+| grid.lighting    | available | $23.99    | $23.99        | high           | high   | 4      | namesilo                                           |
+| grid.guru        | resell    | —         | —             | high           | high   | 4      | Sav.com, LLC - 41                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
