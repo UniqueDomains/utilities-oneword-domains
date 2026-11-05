@@ -1,10 +1,10 @@
-# One-Word Utilities Domain Names (506 TLDs) (76,208)
+# One-Word Utilities Domain Names (506 TLDs) (76,165)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-76%2C208%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-76%2C165%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes one-word utilities domain names spanning 506 different TLDs, with a median ask near $568. Updated daily, it covers a broad range of extensions beyond .com, useful for comparing pricing and renewal costs before choosing a domain to own.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **76,208 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **76,165 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 76,208 domains · **Median ask:** $281.45 · **High-demand under $2,500:** 2,997
+**Public extract:** 1,000 rows · **Live catalog:** 76,165 domains · **Median ask:** $268.42 · **High-demand under $2,500:** 3,232
 
-**Last updated:** 2026-11-01
+**Last updated:** 2026-11-05
 **Canonical page:** `https://unique.domains/domains/sector/utilities`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| grid.auto          | available | $1,863.20  | $2,064.20     | high           | high   | 4      | spaceship        |
-| energy.berlin      | resell    | $6,371.43  | $75.99        | high           | medium | 6      | name.com         |
-| grid.boo           | premium   | $257.92    | $257.92       | high           | high   | 4      | spaceship        |
-| grid.boats         | available | $1.54      | $14.21        | high           | high   | 4      | porkbun          |
-| energy.gallery     | resell    | $85.80     | $85.80        | high           | medium | 6      | Porkbun LLC      |
-| grid.cam           | premium   | $1,552.70  | $14.69        | high           | high   | 4      | spaceship        |
-| grid.cleaning      | available | $75.49     | $75.49        | high           | high   | 4      | namesilo         |
-| energy.luxe        | resell    | $37,060.64 | —             | high           | medium | 6      | Dynadot Inc      |
-| grid.cyou          | premium   | $384       | $768          | high           | high   | 4      | namesilo         |
-| grid.creditcard    | available | $129.20    | $129.20       | high           | high   | 4      | spaceship        |
-| energy.me          | resell    | $5,750     | $27.99        | high           | medium | 6      | GoDaddy.com, LLC |
-| grid.date          | premium   | $328.02    | $55.11        | high           | high   | 4      | porkbun          |
-| grid.cruises       | available | $56.99     | $56.99        | high           | high   | 4      | namesilo         |
-| energy.town        | resell    | $42.90     | $42.90        | high           | medium | 6      | Porkbun LLC      |
-| grid.day           | premium   | $249.20    | $323.70       | high           | high   | 4      | unstoppable      |
-| grid.directory     | available | $4.34      | $21.94        | high           | high   | 4      | spaceship        |
-| electricity.best   | resell    | $1.68      | $18.88        | high           | low    | 11     | Dynadot Inc      |
-| grid.fun           | premium   | $6,900     | $6,900        | high           | high   | 4      | namesilo         |
-| grid.enterprises   | available | $11.49     | $35.99        | high           | high   | 4      | namesilo         |
-| electricity.center | resell    | $42.98     | —             | high           | low    | 11     | NameCheap, Inc.  |
+| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar       |
+| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------- |
+| gas.immobilien     | available | $30.22     | $30.22        | high           | low    | 3      | spaceship       |
+| water.bot          | resell    | $650       | $650          | high           | medium | 5      | GoDaddy.com LLC |
+| gas.casa           | premium   | $83        | $10.55        | high           | low    | 3      | spaceship       |
+| grid.cars          | available | $1,999.99  | $2,199        | high           | high   | 4      | namesilo        |
+| energy.berlin      | resell    | $6,371.43  | $75.99        | high           | medium | 6      | name.com        |
+| gas.ooo            | premium   | $7,102.86  | $119.99       | high           | low    | 3      | namesilo        |
+| grid.cheap         | available | $28.20     | $28.20        | high           | high   | 4      | cloudflare      |
+| energy.gallery     | resell    | $85.80     | $85.80        | high           | medium | 6      | Porkbun LLC     |
+| grid.best          | premium   | $101.97    | $101.97       | high           | high   | 4      | namecheap       |
+| grid.clothing      | available | $26.08     | $26.08        | high           | high   | 4      | spaceship       |
+| energy.luxe        | resell    | $37,060.64 | —             | high           | medium | 6      | Dynadot Inc     |
+| grid.blog          | premium   | $160       | $640          | high           | high   | 4      | namesilo        |
+| grid.contractors   | available | $28.15     | $28.15        | high           | high   | 4      | spaceship       |
+| electricity.center | resell    | $42.98     | —             | high           | low    | 11     | NameCheap, Inc. |
+| grid.buzz          | premium   | $440       | $110          | high           | high   | 4      | dynadot         |
+| grid.coupons       | available | $2.27      | $43.67        | high           | high   | 4      | spaceship       |
+| gas.energy         | resell    | —          | —             | high           | low    | 3      | Porkbun LLC     |
+| grid.click         | premium   | $302.50    | $302.50       | high           | high   | 4      | namesilo        |
+| grid.dentist       | available | $65.99     | $65.99        | high           | high   | 4      | namesilo        |
+| gas.quest          | resell    | —          | —             | high           | low    | 3      | Dynadot Inc     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 76,208 live domains                                  |
+| 1,000-row public sample | 76,165 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 2,997 high-demand names under $2,500                 |
+| Basic exported fields   | 3,232 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Utilities Domain Names (506 TLDs)*. Version 2026-11-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Utilities Domain Names (506 TLDs)*. Version 2026-11-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
